@@ -269,6 +269,73 @@
     "WalnutNumber": 1,
     "WalnutType": 1
   },
+  "1005": {
+    "AccessKey": [
+      "Dungeon",
+      "Shop_Main",
+      "Shop_Abyss"
+    ],
+    "Count": [
+      [
+        10
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Walnut/Avatar/T_Walnut_Char_Feina.T_Walnut_Char_Feina",
+    "Id": [
+      1001801,
+      1001801,
+      30001,
+      2012,
+      2008,
+      211
+    ],
+    "Mode": "SequenceCeiling",
+    "Name": "UI_Name_Walnut_1005",
+    "Param": [
+      1,
+      7,
+      10,
+      13,
+      13,
+      13
+    ],
+    "Rarity": 5,
+    "ResourceToCoinType": 211,
+    "ResourceValue": 5,
+    "RewardLv": [
+      1,
+      2,
+      3
+    ],
+    "Sound": "SOUND_ITEM_MIHAN",
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ],
+    "WalnutId": 1005,
+    "WalnutIndex": "A",
+    "WalnutNumber": 1,
+    "WalnutType": 1
+  },
   "1006": {
     "AccessKey": [
       "Dungeon",
@@ -9005,7 +9072,8 @@
     "AccessKey": [
       "Dungeon",
       "Shop_Main",
-      "Shop_Abyss"
+      "Shop_Abyss",
+      "Text_HardBoss"
     ],
     "Count": [
       [
@@ -9132,6 +9200,73 @@
       "Resource"
     ],
     "WalnutId": 2044,
+    "WalnutIndex": "A",
+    "WalnutNumber": 1,
+    "WalnutType": 2
+  },
+  "2050": {
+    "AccessKey": [
+      "Dungeon",
+      "Shop_Main",
+      "Shop_Abyss"
+    ],
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Walnut/Range/T_Walnut_Machinegun_Zhimeng.T_Walnut_Machinegun_Zhimeng",
+    "Id": [
+      920509,
+      12065,
+      30002,
+      12066,
+      12067,
+      211
+    ],
+    "Mode": "SequenceCeiling",
+    "Name": "UI_Name_Walnut_2050",
+    "Param": [
+      1,
+      7,
+      10,
+      13,
+      13,
+      13
+    ],
+    "Rarity": 5,
+    "ResourceToCoinType": 211,
+    "ResourceValue": 5,
+    "RewardLv": [
+      1,
+      2,
+      3
+    ],
+    "Sound": "SOUND_ITEM_MIHAN",
+    "Type": [
+      "Draft",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ],
+    "WalnutId": 2050,
     "WalnutIndex": "A",
     "WalnutNumber": 1,
     "WalnutType": 2

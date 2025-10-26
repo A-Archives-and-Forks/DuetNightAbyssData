@@ -2479,6 +2479,10 @@
         ],
         "Function": "Damage",
         "Rate": "#1"
+      },
+      {
+        "FXId": 10105103,
+        "Function": "PlayFX"
       }
     ],
     "TaskId": 101051022
@@ -2508,6 +2512,10 @@
         "CauseHit": "LightHit",
         "Function": "CutToughness",
         "Value": 50
+      },
+      {
+        "FXId": 10105902,
+        "Function": "PlayFX"
       }
     ],
     "TaskId": 101051062
@@ -2537,6 +2545,10 @@
         "CauseHit": "HitFly_XY400Z400_F",
         "Function": "CutToughness",
         "Value": 200
+      },
+      {
+        "FXId": 10105103,
+        "Function": "PlayFX"
       }
     ],
     "TaskId": 101052052
@@ -3896,11 +3908,6 @@
       {
         "CreatureId": 1020321,
         "Function": "CreateSkillCreature"
-      },
-      {
-        "FXId": 15021,
-        "Function": "PlayFX",
-        "IsAttached": true
       }
     ],
     "TaskId": 1020321
@@ -4460,6 +4467,7 @@
     "TaskId": 1030212
   },
   "1030213": {
+    "AttackRangeType": "Normal",
     "NotifyName": [
       "hit1"
     ],
@@ -5582,7 +5590,7 @@
       },
       {
         "Function": "PlaySE",
-        "MeleeHitLevel": "Normal",
+        "MeleeHitLevel": "Heavy",
         "SEId": 104
       }
     ],
@@ -5853,7 +5861,7 @@
           "HeavyAttack"
         ],
         "Function": "Damage",
-        "Rate": 1.13
+        "Rate": 0.161
       },
       {
         "Function": "PlayFX",
@@ -7626,7 +7634,7 @@
     "TaskEffects": [
       {
         "BaseAttr": "MaxHp",
-        "DamageType": "TrueDamage",
+        "DamageType": "Default",
         "Function": "Heal",
         "Rate": 0.05,
         "Value": 15
@@ -21894,7 +21902,7 @@
     "NotifyName": [
       "hit1"
     ],
-    "TargetFilter": "Char_Cylinder_Large",
+    "TargetFilter": "Char_Cylinder_Middle",
     "TaskEffects": [
       {
         "BaseAttr": "ATK_Char",
@@ -22962,7 +22970,12 @@
       {
         "ATKBase": "ATK",
         "CreatureId": 30102004,
-        "Function": "CreateSkillCreature"
+        "Function": "CreateSkillCreature",
+        "Location": [
+          0,
+          0,
+          60
+        ]
       }
     ],
     "TaskId": 301020041
@@ -25579,6 +25592,10 @@
       {
         "FXId": 22,
         "Function": "PlayFX"
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 320104
       }
     ],
     "TaskId": 320112
@@ -25616,6 +25633,10 @@
       {
         "FXId": 22,
         "Function": "PlayFX"
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 320105
       }
     ],
     "TaskId": 320123
@@ -25657,6 +25678,10 @@
       {
         "FXId": 320111,
         "Function": "PlayFX"
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 320105
       }
     ],
     "TaskId": 320124
@@ -26666,6 +26691,11 @@
       },
       {
         "Function": "AimDiffusion"
+      },
+      {
+        "BaseChar": "Self",
+        "Function": "PlaySE",
+        "SEId": 2016
       }
     ],
     "TaskId": 401010003
@@ -26801,6 +26831,10 @@
         "CauseHit": "RangedWeapon_Shotgun",
         "Function": "CutToughness",
         "Value": 0.2
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 40101001
       }
     ],
     "TaskId": 401010010
@@ -30796,8 +30830,8 @@
         "Function": "CreateSkillCreature",
         "Location": [
           0,
-          0,
-          50
+          50,
+          30
         ]
       }
     ],
@@ -33322,6 +33356,10 @@
       {
         "FXId": 600009,
         "Function": "PlayFX"
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 600401
       }
     ],
     "TaskId": 600405
@@ -33370,6 +33408,10 @@
       {
         "FXId": 600009,
         "Function": "PlayFX"
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 600401
       }
     ],
     "TaskId": 600408
@@ -33607,12 +33649,7 @@
     "TaskEffects": [
       {
         "CreatureId": 600701,
-        "Function": "CreateSkillCreature",
-        "Location": [
-          100,
-          50,
-          0
-        ]
+        "Function": "CreateSkillCreature"
       }
     ],
     "TaskId": 600701
@@ -33662,12 +33699,7 @@
     "TaskEffects": [
       {
         "CreatureId": 600702,
-        "Function": "CreateSkillCreature",
-        "Location": [
-          100,
-          50,
-          0
-        ]
+        "Function": "CreateSkillCreature"
       }
     ],
     "TaskId": 600704
@@ -34072,6 +34104,10 @@
         "BuffId": 6000301,
         "Function": "AddBuff",
         "LastTime": 5
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 1003
       }
     ],
     "TaskId": 601401
@@ -34095,6 +34131,10 @@
         "BuffId": 6000301,
         "Function": "AddBuff",
         "LastTime": 5
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 1003
       }
     ],
     "TaskId": 601402
@@ -34123,6 +34163,10 @@
         "BuffId": 6000301,
         "Function": "AddBuff",
         "LastTime": 5
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 600401
       }
     ],
     "TaskId": 601403
@@ -34169,6 +34213,10 @@
         "BuffId": 30400017,
         "Function": "AddBuff",
         "LastTime": -1
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 600401
       }
     ],
     "TaskId": 601405
@@ -40805,6 +40853,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -40907,6 +40956,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -41018,6 +41068,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -41037,11 +41088,6 @@
       {
         "CreatureId": 850212,
         "Function": "CreateSkillCreature",
-        "Location": [
-          0,
-          0,
-          -50
-        ],
         "UseSaveLoc": ""
       }
     ],
@@ -41087,6 +41133,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -41123,6 +41170,10 @@
         "CauseHit": "HitFly_XY1200Z1000",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850294
       }
     ],
     "TaskId": 8502133
@@ -41203,6 +41254,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -41225,6 +41277,10 @@
         "CauseHit": "HitFly_XY1200Z1000",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850211
       }
     ],
     "TaskId": 8502139
@@ -41262,6 +41318,10 @@
         "CauseHit": "HitFly_XY1200Z1000",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850211
       }
     ],
     "TaskId": 8502140
@@ -41276,6 +41336,10 @@
         "BaseAttr": "ATK",
         "Function": "Damage",
         "Rate": 5
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850282
       }
     ],
     "TaskId": 8502141
@@ -41299,6 +41363,10 @@
         "BaseAttr": "ATK",
         "Function": "Damage",
         "Rate": 0.5
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850282
       }
     ],
     "TaskId": 8502143
@@ -41400,6 +41468,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -41604,6 +41673,7 @@
     "TargetFilter": "Self",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -41976,6 +42046,10 @@
         "CauseHit": "LightHit_400",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850282
       }
     ],
     "TaskId": 8502165
@@ -42002,6 +42076,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -42057,6 +42132,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -42157,6 +42233,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -42203,6 +42280,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -42239,6 +42317,10 @@
         "CauseHit": "HitFly_XY1200Z1000",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850294
       }
     ],
     "TaskId": 850233
@@ -42319,6 +42401,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -42341,6 +42424,10 @@
         "CauseHit": "HitFly_XY1200Z1000",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850211
       }
     ],
     "TaskId": 850239
@@ -42360,6 +42447,10 @@
         "CauseHit": "HitFly_XY1200Z1000",
         "Function": "CutToughness",
         "Value": 100
+      },
+      {
+        "Function": "PlaySE",
+        "SEId": 850211
       }
     ],
     "TaskId": 850240
@@ -42926,6 +43017,7 @@
     "TargetFilter": "Self",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -43233,6 +43325,7 @@
     "TargetFilter": "Self",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -43957,6 +44050,7 @@
     "TargetFilter": "Self",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -44210,6 +44304,7 @@
     "TargetFilter": "Self",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -44338,6 +44433,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -44415,18 +44511,11 @@
     "NotifyName": [
       "hit7"
     ],
-    "TargetFilter": "BTTarget",
+    "TargetFilter": "Self",
     "TaskEffects": [
       {
         "Function": "InactiveStaticCreator",
         "StaticCreatorId": 1440065
-      },
-      {
-        "BuffId": 850310,
-        "Function": "RemoveBuff"
-      },
-      {
-        "Function": "CameraRelock"
       }
     ],
     "TaskId": 8503202
@@ -44464,7 +44553,7 @@
   },
   "8503205": {
     "NotifyName": [
-      "hit1"
+      "hit3"
     ],
     "TargetFilter": "BTTarget",
     "TaskEffects": [
@@ -47786,6 +47875,7 @@
     "TargetFilter": "Target",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -48039,6 +48129,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -48390,6 +48481,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -48461,11 +48553,6 @@
     "TargetFilter": "AlmostAllEnemy",
     "TaskEffects": [
       {
-        "BuffId": 850502,
-        "Function": "AddBuff",
-        "LastTime": -1
-      },
-      {
         "CantLockTime": -1,
         "Function": "CameraUnlock"
       }
@@ -48481,10 +48568,6 @@
       {
         "Function": "InactiveStaticCreator",
         "StaticCreatorId": 1660122
-      },
-      {
-        "BuffId": 850502,
-        "Function": "RemoveBuff"
       },
       {
         "Function": "CameraRelock"
@@ -48601,6 +48684,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -48719,6 +48803,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -49115,10 +49200,6 @@
         "StaticCreatorId": 1660021
       },
       {
-        "BuffId": 850502,
-        "Function": "RemoveBuff"
-      },
-      {
         "Function": "CameraRelock"
       }
     ],
@@ -49133,6 +49214,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -49466,11 +49548,6 @@
     ],
     "TargetFilter": "AlmostAllEnemy",
     "TaskEffects": [
-      {
-        "BuffId": 850502,
-        "Function": "AddBuff",
-        "LastTime": -1
-      },
       {
         "CantLockTime": -1,
         "Function": "CameraUnlock"
@@ -52427,6 +52504,7 @@
     "TargetFilter": "BTTarget",
     "TaskEffects": [
       {
+        "FixLocationEndZ": -3500,
         "Function": "SaveLoc",
         "IsOnGround": true,
         "TargetType": "Target"
@@ -62238,7 +62316,7 @@
     "TargetFilter": "Mon_Sphere_300_360",
     "TaskEffects": [
       {
-        "FXId": 2030102,
+        "FXId": 900073,
         "Function": "PlayFX",
         "NormalToHit": true,
         "Overlap": true

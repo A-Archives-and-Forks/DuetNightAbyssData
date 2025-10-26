@@ -51,15 +51,6 @@
         "RewardId": 7000
       }
     ],
-    "10010201": [
-      {
-        "FinishQuest": 10010201,
-        "GuideId": 81,
-        "GuideNoteId": 104,
-        "GuideNoteTab": 3,
-        "RewardId": 7000
-      }
-    ],
     "10010206": [
       {
         "FinishQuest": 10010206,
@@ -139,15 +130,6 @@
         "GuideId": 40,
         "GuideNoteId": 55,
         "GuideNoteTab": 3,
-        "RewardId": 7000
-      }
-    ],
-    "11010103": [
-      {
-        "FinishQuest": 11010103,
-        "GuideId": 64,
-        "GuideNoteId": 79,
-        "GuideNoteTab": 5,
         "RewardId": 7000
       }
     ],
@@ -283,6 +265,15 @@
         "GuideId": 22,
         "GuideNoteId": 38,
         "GuideNoteTab": 3,
+        "RewardId": 7000
+      }
+    ],
+    "100208": [
+      {
+        "FinishQuestChain": 100208,
+        "GuideId": 80,
+        "GuideNoteId": 112,
+        "GuideNoteTab": 5,
         "RewardId": 7000
       }
     ],

@@ -252,7 +252,8 @@
     ],
     "StateTag": 1,
     "System": "Armory",
-    "UIName": "ArmoryCardLevelWeapon"
+    "UIName": "ArmoryCardLevelWeapon",
+    "ZOrder": 55
   },
   "ArmoryDetail": {
     "ConfigName": "StackAndUIMode",
@@ -268,7 +269,8 @@
     ],
     "StateTag": 1,
     "System": "Armory",
-    "UIName": "ArmoryDetail"
+    "UIName": "ArmoryDetail",
+    "ZOrder": 55
   },
   "ArmoryDye": {
     "ConfigName": "StackAndUIMode",
@@ -283,7 +285,8 @@
     ],
     "StateTag": 1,
     "System": "Armory",
-    "UIName": "ArmoryDye"
+    "UIName": "ArmoryDye",
+    "ZOrder": 55
   },
   "ArmoryFile": {
     "ConfigName": "StackAndUIMode",
@@ -296,7 +299,8 @@
     },
     "Popup": true,
     "System": "Armory",
-    "UIName": "ArmoryFile"
+    "UIName": "ArmoryFile",
+    "ZOrder": 55
   },
   "ArmoryMain": {
     "CombatconditionIdList": [
@@ -320,7 +324,8 @@
     ],
     "StateTag": 1,
     "System": "Armory",
-    "UIName": "ArmoryMain"
+    "UIName": "ArmoryMain",
+    "ZOrder": 55
   },
   "ArmoryMod": {
     "ConfigName": "StackAndUIMode",
@@ -343,7 +348,8 @@
       201,
       202
     ],
-    "UIName": "ArmoryMod"
+    "UIName": "ArmoryMod",
+    "ZOrder": 55
   },
   "ArmoryModImport": {
     "ConfigName": "OnlyUIMode",
@@ -357,7 +363,8 @@
     ],
     "StateTag": 1,
     "System": "Armory",
-    "UIName": "ArmoryModImport"
+    "UIName": "ArmoryModImport",
+    "ZOrder": 56
   },
   "ArmoryModIntensify": {
     "ConfigName": "StackAndUIMode",
@@ -375,7 +382,8 @@
     ],
     "StateTag": 1,
     "System": "Armory",
-    "UIName": "ArmoryModIntensify"
+    "UIName": "ArmoryModIntensify",
+    "ZOrder": 55
   },
   "ArmorySkin": {
     "ConfigName": "StackAndUIMode",
@@ -392,9 +400,12 @@
     "StateTag": 1,
     "System": "Armory",
     "TabCoin": [
-      100
+      99,
+      100,
+      110
     ],
-    "UIName": "ArmorySkin"
+    "UIName": "ArmorySkin",
+    "ZOrder": 55
   },
   "ArmoryTraceDetails": {
     "ConfigName": "StackAndUIMode",
@@ -405,7 +416,7 @@
     "Popup": true,
     "System": "Armory",
     "UIName": "ArmoryTraceDetails",
-    "ZOrder": -1
+    "ZOrder": 54
   },
   "BagMain": {
     "ConfigName": "StackAndUIMode",
@@ -1246,7 +1257,8 @@
       "MainLineQuest"
     ],
     "SpecialUINameList": [
-      "CharLevelUp_System"
+      "CharLevelUp_System",
+      "SystemUnlockGuide"
     ],
     "StateTag": 1,
     "System": "Common",
@@ -1683,14 +1695,16 @@
     "MobileBPPath": "WidgetBlueprint'/Game/UI/WBP/Shop/Mobile/WBP_Shop_Gift_PopUp_Purple_M.WBP_Shop_Gift_PopUp_Purple_M'",
     "PCBPPath": "WidgetBlueprint'/Game/UI/WBP/Shop/PC/WBP_Shop_Gift_PopUp_Purple_P.WBP_Shop_Gift_PopUp_Purple_P'",
     "System": "Shop",
-    "UIName": "PayGiftPopup_Purple"
+    "UIName": "PayGiftPopup_Purple",
+    "ZOrder": 56
   },
   "PayGiftPopup_Yellow": {
     "ConfigName": "OnlyUIMode",
     "MobileBPPath": "WidgetBlueprint'/Game/UI/WBP/Shop/Mobile/WBP_Shop_Gift_PopUp_Yellow_M.WBP_Shop_Gift_PopUp_Yellow_M'",
     "PCBPPath": "WidgetBlueprint'/Game/UI/WBP/Shop/PC/WBP_Shop_Gift_PopUp_Yellow_P.WBP_Shop_Gift_PopUp_Yellow_P'",
     "System": "Shop",
-    "UIName": "PayGiftPopup_Yellow"
+    "UIName": "PayGiftPopup_Yellow",
+    "ZOrder": 56
   },
   "PersonInfoPageMain": {
     "ConfigName": "StackAndUIMode",
@@ -2141,7 +2155,8 @@
       110,
       111
     ],
-    "UIName": "ShopActivity"
+    "UIName": "ShopActivity",
+    "ZOrder": 55
   },
   "ShopMain": {
     "ConfigName": "StackAndUIMode",
@@ -2159,7 +2174,8 @@
       110,
       111
     ],
-    "UIName": "ShopMain"
+    "UIName": "ShopMain",
+    "ZOrder": 55
   },
   "ShuiFa": {
     "MobileBPPath": "WidgetBlueprint'/Game/UI/WBP/MiniGame/Mobile/WBP_MiniGame_ShuifaMain_M.WBP_MiniGame_ShuifaMain_M'",
@@ -2191,6 +2207,7 @@
   "SkinPreview": {
     "ConfigName": "StackAndUIMode",
     "IsHideBattleUnit": 1,
+    "IsStopGame": 2,
     "MobileBPPath": "WidgetBlueprint'/Game/UI/WBP/Shop/Mobile/WBP_Shop_SkinPreview_M.WBP_Shop_SkinPreview_M'",
     "PCBPPath": "WidgetBlueprint'/Game/UI/WBP/Shop/PC/WBP_Shop_SkinPreview_P.WBP_Shop_SkinPreview_P'",
     "UIName": "SkinPreview",
@@ -2258,6 +2275,9 @@
     "UIName": "StoryWeaponSelect"
   },
   "StyleOfPlay": {
+    "CombatconditionIdList": [
+      21
+    ],
     "ConfigName": "StackAndUIMode",
     "GlobalGameUITag": "Play",
     "IsChat": true,

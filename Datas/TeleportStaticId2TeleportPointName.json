@@ -33,13 +33,13 @@
   "1240130": {
     "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_2",
     "Temples": [
-      80501
+      80903
     ]
   },
   "1240354": {
     "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_1",
     "Temples": [
-      80502
+      80501
     ]
   },
   "1240555": {
@@ -51,19 +51,18 @@
   "1240556": {
     "TeleportPointName": "UI_TELEPORTPOINT_NAME_101103_4",
     "Temples": [
-      80302
+      80502
     ]
   },
   "1270033": {
     "TeleportPointName": "UI_TELEPORTPOINT_NAME_101301_1",
     "Temples": [
-      80903
+      81501
     ]
   },
   "1440066": {
     "TeleportPointName": "UI_TELEPORTPOINT_NAME_101304_1",
     "Temples": [
-      81501,
       81502
     ]
   },
@@ -146,7 +145,10 @@
     ]
   },
   "1969954": {
-    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101901_1"
+    "TeleportPointName": "UI_TELEPORTPOINT_NAME_101901_1",
+    "Temples": [
+      80302
+    ]
   },
   "2020005": {
     "TeleportPointName": "UI_TELEPORTPOINT_NAME_104101_15"

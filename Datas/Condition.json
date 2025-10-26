@@ -236,6 +236,35 @@
     },
     "Remark": "组合条件-单机副本+大世界"
   },
+  "1000054": {
+    "ConditionId": 1000054,
+    "ConditionLogic": "OR",
+    "ConditionMap": {
+      "AvatarStatus": [
+        [
+          "InBigWorld",
+          "T"
+        ],
+        [
+          "InSingleDungeon",
+          "T"
+        ],
+        [
+          "InMultiDungeon",
+          "T"
+        ],
+        [
+          "InRougeLike",
+          "T"
+        ],
+        [
+          "InHardBoss",
+          "F"
+        ]
+      ]
+    },
+    "Remark": "成就-组合条件-大世界+单机副本+联机副本+肉鸽+梦魇"
+  },
   "1000101": {
     "ConditionId": 1000101,
     "ConditionLogic": "OR",
@@ -858,6 +887,16 @@
       ]
     },
     "Remark": "挖土和冰湖狩猎都完成"
+  },
+  "10020502": {
+    "ConditionId": 10020502,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "Quest": [
+        10020501
+      ]
+    },
+    "Remark": "调停委托完成"
   },
   "100206": {
     "ConditionId": 100206,
@@ -3356,6 +3395,20 @@
     },
     "Remark": "菲娜活动任务1完成"
   },
+  "12011106": {
+    "ConditionId": 12011106,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "DungeonComplete": [
+        [
+          60001,
+          1,
+          1
+        ]
+      ]
+    },
+    "Remark": "菲娜活动副本1-1完成"
+  },
   "120112": {
     "ConditionId": 120112,
     "ConditionLogic": "AND",
@@ -3366,6 +3419,20 @@
     },
     "Remark": "菲娜活动任务2完成"
   },
+  "12011204": {
+    "ConditionId": 12011204,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "DungeonComplete": [
+        [
+          60002,
+          1,
+          1
+        ]
+      ]
+    },
+    "Remark": "菲娜活动副本2-1完成"
+  },
   "120113": {
     "ConditionId": 120113,
     "ConditionLogic": "AND",
@@ -3375,6 +3442,44 @@
       ]
     },
     "Remark": "菲娜活动任务3完成"
+  },
+  "12011306": {
+    "ConditionId": 12011306,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "DungeonComplete": [
+        [
+          60004,
+          1,
+          1
+        ]
+      ]
+    },
+    "Remark": "菲娜活动副本3-2完成"
+  },
+  "120114": {
+    "ConditionId": 120114,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "QuestChain": [
+        120114
+      ]
+    },
+    "Remark": "菲娜活动任务4完成"
+  },
+  "12011413": {
+    "ConditionId": 12011413,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "DungeonComplete": [
+        [
+          60006,
+          1,
+          1
+        ]
+      ]
+    },
+    "Remark": "菲娜活动任务4-2完成"
   },
   "120201": {
     "ConditionId": 120201,
@@ -4214,6 +4319,19 @@
     },
     "Remark": "于无眠之夜远航任务接取"
   },
+  "20023600": {
+    "ConditionId": 20023600,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "OwnCharIdAndLevel": [
+        [
+          5101,
+          1
+        ]
+      ]
+    },
+    "Remark": "委托密函任务-获得松露"
+  },
   "2003": {
     "ConditionId": 2003,
     "ConditionLogic": "AND",
@@ -4540,8 +4658,8 @@
     "ConditionId": 20101301,
     "ConditionLogic": "OR",
     "ConditionMap": {
-      "DialogueHasRead": [
-        11010401
+      "Quest": [
+        11010108
       ]
     },
     "Remark": "阿瓦尔"
@@ -5341,6 +5459,19 @@
     },
     "ConditionText": "Condition_Toast_PlayerLv_ModGuideBook_10",
     "Remark": "魔之楔手册揭晓等级10"
+  },
+  "210100": {
+    "ConditionId": 210100,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "OwnCharIdAndLevel": [
+        [
+          2101,
+          1
+        ]
+      ]
+    },
+    "Remark": "获得1级水母（解锁水母）"
   },
   "212": {
     "ConditionId": 212,
@@ -10328,7 +10459,8 @@
     "ConditionMap": {
       "InDungeon": [
         20101,
-        20102
+        20102,
+        20201
       ]
     },
     "Remark": "大秘境局内引导显示条件"
@@ -10409,6 +10541,29 @@
       ]
     },
     "Remark": "送松露活动下架条件"
+  },
+  "6021": {
+    "ConditionId": 6021,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "ConditionalRewardEventEnd": [
+        107003
+      ]
+    },
+    "Remark": "区域联机解锁通知活动下架条件"
+  },
+  "6022": {
+    "ConditionId": 6022,
+    "ConditionLogic": "AND",
+    "ConditionMap": {
+      "PlayerLevelMin": [
+        1
+      ],
+      "QuestChain": [
+        100208
+      ]
+    },
+    "Remark": "区域联机解锁活动领奖条件"
   },
   "7": {
     "ConditionId": 7,

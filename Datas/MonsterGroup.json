@@ -187,6 +187,14 @@
     "GroupId": 6011,
     "MemberSpawnProb": [
       {
+        "UnitId": 6001601,
+        "UnitProb": 1
+      },
+      {
+        "UnitId": 6011601,
+        "UnitProb": 1
+      },
+      {
         "UnitId": 6004601,
         "UnitProb": 0.3
       },
@@ -225,6 +233,14 @@
     "GroupId": 6021,
     "MemberSpawnProb": [
       {
+        "UnitId": 6002601,
+        "UnitProb": 1
+      },
+      {
+        "UnitId": 6012601,
+        "UnitProb": 1
+      },
+      {
         "UnitId": 6003601,
         "UnitProb": 0.5
       },
@@ -237,6 +253,18 @@
   "6030": {
     "GroupId": 6030,
     "MemberSpawnProb": [
+      {
+        "UnitId": 6001601,
+        "UnitProb": 1
+      },
+      {
+        "UnitId": 6002601,
+        "UnitProb": 1
+      },
+      {
+        "UnitId": 6011601,
+        "UnitProb": 0.5
+      },
       {
         "UnitId": 6007601,
         "UnitProb": 0.5
@@ -404,11 +432,7 @@
       },
       {
         "UnitId": 7002601,
-        "UnitProb": 0.8
-      },
-      {
-        "UnitId": 7012601,
-        "UnitProb": 0.2
+        "UnitProb": 1
       },
       {
         "UnitId": 7014601,
@@ -429,7 +453,7 @@
       },
       {
         "UnitId": 7002601,
-        "UnitProb": 0.5
+        "UnitProb": 1
       },
       {
         "UnitId": 7012601,
@@ -437,10 +461,6 @@
       },
       {
         "UnitId": 7004601,
-        "UnitProb": 0.5
-      },
-      {
-        "UnitId": 7014601,
         "UnitProb": 0.5
       }
     ]
@@ -458,14 +478,10 @@
       },
       {
         "UnitId": 7001601,
-        "UnitProb": 0.8
+        "UnitProb": 1
       },
       {
         "UnitId": 7011601,
-        "UnitProb": 0.5
-      },
-      {
-        "UnitId": 7003601,
         "UnitProb": 0.5
       },
       {
@@ -496,16 +512,20 @@
       {
         "UnitId": 7003601,
         "UnitProb": 0.5
-      },
-      {
-        "UnitId": 7013601,
-        "UnitProb": 0.5
       }
     ]
   },
   "7022": {
     "GroupId": 7022,
     "MemberSpawnProb": [
+      {
+        "UnitId": 7002601,
+        "UnitProb": 1
+      },
+      {
+        "UnitId": 7001601,
+        "UnitProb": 1
+      },
       {
         "UnitId": 7010601,
         "UnitProb": 0.5
@@ -903,10 +923,14 @@
       },
       {
         "UnitId": 8002601,
-        "UnitProb": 0.5
+        "UnitProb": 1
       },
       {
         "UnitId": 8002601,
+        "UnitProb": 0.5
+      },
+      {
+        "UnitId": 8001601,
         "UnitProb": 0.5
       }
     ]
@@ -921,6 +945,10 @@
       {
         "UnitId": 8001601,
         "UnitProb": 1
+      },
+      {
+        "UnitId": 8002601,
+        "UnitProb": 0.5
       },
       {
         "UnitId": 8003601,
@@ -1342,10 +1370,14 @@
       },
       {
         "UnitId": 9001601,
-        "UnitProb": 0.5
+        "UnitProb": 1
       },
       {
         "UnitId": 9001601,
+        "UnitProb": 0.5
+      },
+      {
+        "UnitId": 9007601,
         "UnitProb": 0.5
       }
     ]
@@ -1360,6 +1392,10 @@
       {
         "UnitId": 9002601,
         "UnitProb": 1
+      },
+      {
+        "UnitId": 9001601,
+        "UnitProb": 0.5
       },
       {
         "UnitId": 9007601,

@@ -46,9 +46,11 @@
   },
   "101001": {
     "AccessKey": [
+      "Shop_Fishing",
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -57,9 +59,6 @@
       }
     ],
     "ApplicationType": 101,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -84,6 +83,12 @@
     "TypeName": "MOD_Type_Name_Fenrir01"
   },
   "101002": {
+    "AccessKey": [
+      "Shop_Abyss",
+      "Shop_Main",
+      "Forging",
+      "MonsterStrong"
+    ],
     "AddAttrs": [
       {
         "AttrName": "CRI",
@@ -91,9 +96,6 @@
       }
     ],
     "ApplicationType": 101,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -125,9 +127,6 @@
       }
     ],
     "ApplicationType": 101,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -2967,7 +2966,8 @@
   },
   "102001": {
     "AccessKey": [
-      "Shop_Fishing",
+      "Shop_Abyss",
+      "Shop_Main",
       "Forging",
       "MonsterStrong"
     ],
@@ -2978,9 +2978,6 @@
       }
     ],
     "ApplicationType": 102,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3006,9 +3003,11 @@
   },
   "102002": {
     "AccessKey": [
+      "Shop_Fishing",
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -3017,9 +3016,6 @@
       }
     ],
     "ApplicationType": 102,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3054,9 +3050,6 @@
       }
     ],
     "ApplicationType": 102,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3081,6 +3074,12 @@
     "TypeName": "MOD_Type_Name_Fenrir01"
   },
   "102004": {
+    "AccessKey": [
+      "Shop_Abyss",
+      "Shop_Main",
+      "Forging",
+      "MonsterStrong"
+    ],
     "AddAttrs": [
       {
         "AttrName": "CRI",
@@ -3088,9 +3087,6 @@
       }
     ],
     "ApplicationType": 102,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3116,9 +3112,11 @@
   },
   "103001": {
     "AccessKey": [
+      "Shop_Fishing",
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -3127,9 +3125,6 @@
       }
     ],
     "ApplicationType": 103,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3155,10 +3150,11 @@
   },
   "103002": {
     "AccessKey": [
-      "Shop_Abyss",
+      "Shop_Fishing",
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -3167,9 +3163,6 @@
       }
     ],
     "ApplicationType": 103,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3201,9 +3194,6 @@
       }
     ],
     "ApplicationType": 103,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3234,7 +3224,8 @@
       "Shop_Fishing",
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -3243,9 +3234,6 @@
       }
     ],
     "ApplicationType": 104,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3270,6 +3258,13 @@
     "TypeName": "MOD_Type_Name_Fenrir01"
   },
   "104002": {
+    "AccessKey": [
+      "Shop_Fishing",
+      "Shop_Main",
+      "Forging",
+      "MonsterStrong",
+      "Shop_Rouge"
+    ],
     "AddAttrs": [
       {
         "AttrName": "AttackSpeed_Normal",
@@ -3277,9 +3272,6 @@
       }
     ],
     "ApplicationType": 104,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3311,9 +3303,6 @@
       }
     ],
     "ApplicationType": 104,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -3353,9 +3342,6 @@
       }
     ],
     "ApplicationType": 106,
-    "BreakDown": {
-      "102": 50
-    },
     "CollectRewardExp": 100,
     "Cost": 30,
     "CostChange": -1,
@@ -4441,7 +4427,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4475,7 +4462,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4509,7 +4497,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4543,7 +4532,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4577,7 +4567,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4611,7 +4602,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4645,7 +4637,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4679,7 +4672,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4713,7 +4707,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -4747,7 +4742,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6762,7 +6758,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6796,7 +6793,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6830,7 +6828,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6864,7 +6863,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6898,7 +6898,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6932,7 +6933,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -6966,7 +6968,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7000,7 +7003,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7034,7 +7038,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7068,7 +7073,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7102,7 +7108,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7136,7 +7143,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7170,7 +7178,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7204,7 +7213,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7238,7 +7248,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7272,7 +7283,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7306,7 +7318,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -7340,7 +7353,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11308,7 +11322,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11342,7 +11357,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11376,7 +11392,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11410,7 +11427,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11444,7 +11462,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11478,7 +11497,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11512,7 +11532,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11546,7 +11567,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11580,7 +11602,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11614,7 +11637,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11648,7 +11672,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11682,7 +11707,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11716,7 +11742,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11750,7 +11777,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11784,7 +11812,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11818,7 +11847,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11852,7 +11882,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -11886,7 +11917,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -15104,7 +15136,7 @@
     "Name": "MOD_NAME_1403",
     "PassiveEffects": [
       1420,
-      205
+      206
     ],
     "PassiveEffectsDesc": "MOD_DESC_1420",
     "Polarity": 1,
@@ -18093,7 +18125,7 @@
     ],
     "FilterTag": [
       "Tag_SkillSustain",
-      "Tag_Dmg",
+      "Tag_CRI",
       "Tag_SpecialEffect"
     ],
     "FunctionDes": "UI_Armory_Mod",
@@ -19807,7 +19839,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -19841,7 +19874,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -19875,7 +19909,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -19909,7 +19944,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -19943,7 +19979,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -19977,7 +20014,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20011,7 +20049,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20045,7 +20084,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20079,7 +20119,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20113,7 +20154,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20147,7 +20189,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20181,7 +20224,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20215,7 +20259,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20249,7 +20294,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20283,7 +20329,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20317,7 +20364,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20351,7 +20399,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -20385,7 +20434,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -23971,7 +24021,7 @@
     "Name": "MOD_NAME_1403",
     "PassiveEffects": [
       1420,
-      205
+      206
     ],
     "PassiveEffectsDesc": "MOD_DESC_1420",
     "Polarity": 1,
@@ -27439,7 +27489,7 @@
     ],
     "FilterTag": [
       "Tag_SkillSustain",
-      "Tag_ATK",
+      "Tag_CRI",
       "Tag_SpecialEffect"
     ],
     "FunctionDes": "UI_Armory_Mod",
@@ -27504,7 +27554,7 @@
     ],
     "FilterTag": [
       "Tag_SkillSustain",
-      "Tag_Dmg",
+      "Tag_ATK",
       "Tag_SpecialEffect"
     ],
     "FunctionDes": "UI_Armory_Mod",
@@ -28268,7 +28318,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28313,7 +28364,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28358,7 +28410,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28403,7 +28456,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28448,7 +28502,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28493,7 +28548,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28538,7 +28594,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28583,7 +28640,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28628,7 +28686,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28673,7 +28732,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28718,7 +28778,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28763,7 +28824,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28808,7 +28870,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28853,7 +28916,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28898,7 +28962,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28943,7 +29008,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -28988,7 +29054,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {
@@ -29033,7 +29100,8 @@
     "AccessKey": [
       "Shop_Main",
       "Forging",
-      "MonsterStrong"
+      "MonsterStrong",
+      "Shop_Rouge"
     ],
     "AddAttrs": [
       {

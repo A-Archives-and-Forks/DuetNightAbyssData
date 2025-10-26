@@ -40,5 +40,11 @@
     "MonitorType": "Resource",
     "SubId": 204,
     "Value": 500
+  },
+  {
+    "MonitorId": 8,
+    "MonitorType": "Resource",
+    "SubId": 211,
+    "Value": 100000
   }
 ]

@@ -5875,6 +5875,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_3",
     "DungeonCost": [
@@ -6020,6 +6021,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -6166,6 +6168,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -6288,6 +6291,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -6411,6 +6415,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -6549,6 +6554,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -6687,6 +6693,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -6827,6 +6834,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -6969,6 +6977,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -7124,6 +7133,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -7271,6 +7281,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -7422,6 +7433,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -7572,6 +7584,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -7731,6 +7744,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -7885,6 +7899,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -8018,6 +8033,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -8152,6 +8168,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -8288,6 +8305,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -8423,6 +8441,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -8561,6 +8580,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -8700,6 +8720,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -8823,6 +8844,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -8946,6 +8968,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_3",
     "DungeonCost": [
@@ -9091,6 +9114,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -9237,6 +9261,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -9359,6 +9384,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -9482,6 +9508,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -9620,6 +9647,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -9758,6 +9786,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -9898,6 +9927,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -10040,6 +10070,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -10195,6 +10226,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -10342,6 +10374,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -10493,6 +10526,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -10643,6 +10677,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -10802,6 +10837,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -10956,6 +10992,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -11089,6 +11126,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -11223,6 +11261,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -11359,6 +11398,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -11494,6 +11534,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -11632,6 +11673,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -11771,6 +11813,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -11894,6 +11937,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -12017,6 +12061,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_3",
     "DungeonCost": [
@@ -12162,6 +12207,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -12308,6 +12354,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -12430,6 +12477,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -12553,6 +12601,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -12691,6 +12740,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -12829,6 +12879,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -12969,6 +13020,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -13111,6 +13163,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -13266,6 +13319,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -13413,6 +13467,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -13564,6 +13619,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -13714,6 +13770,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -13873,6 +13930,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -14027,6 +14085,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -14160,6 +14219,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -14294,6 +14354,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -14430,6 +14491,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -14565,6 +14627,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -14703,6 +14766,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -14842,6 +14906,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -14965,6 +15030,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -19289,6 +19355,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -19548,6 +19615,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_3",
     "DungeonCost": [
@@ -19807,6 +19875,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -20056,8 +20125,7 @@
       ]
     },
     "Condition": [
-      135,
-      3013
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150101,
@@ -20070,6 +20138,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -20319,8 +20388,7 @@
       ]
     },
     "Condition": [
-      145,
-      3014
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150101,
@@ -20333,6 +20401,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_3",
     "DungeonCost": [
@@ -20582,8 +20651,7 @@
       ]
     },
     "Condition": [
-      155,
-      3015
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150101,
@@ -20596,6 +20664,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -20845,8 +20914,7 @@
       ]
     },
     "Condition": [
-      160,
-      3016
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150101,
@@ -20859,6 +20927,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150104
     },
+    "DropRewardMonsterNum": 240,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_1",
     "DungeonCost": [
@@ -21120,6 +21189,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -21263,6 +21333,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -21406,6 +21477,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -21549,6 +21621,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -21692,6 +21765,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -21835,6 +21909,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -21978,6 +22053,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22121,6 +22197,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22264,6 +22341,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22407,6 +22485,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22550,6 +22629,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22693,6 +22773,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22836,6 +22917,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -22979,6 +23061,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23122,6 +23205,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23265,6 +23349,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150108
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23409,6 +23494,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23439,7 +23525,7 @@
     "DungeonRewardView": 91201,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90101",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -23574,6 +23660,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23604,7 +23691,7 @@
     "DungeonRewardView": 91202,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90102",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -23739,6 +23826,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23769,7 +23857,7 @@
     "DungeonRewardView": 91203,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90103",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -23904,6 +23992,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -23934,7 +24023,7 @@
     "DungeonRewardView": 91204,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90104",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -24069,6 +24158,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -24099,7 +24189,7 @@
     "DungeonRewardView": 91205,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90105",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -24234,6 +24324,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -24264,7 +24355,7 @@
     "DungeonRewardView": 91206,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90106",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -24399,6 +24490,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -24429,7 +24521,7 @@
     "DungeonRewardView": 91207,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90107",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -24564,6 +24656,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -24594,7 +24687,7 @@
     "DungeonRewardView": 91208,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90108",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -24729,6 +24822,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_DEFENCE_2",
     "DungeonCost": [
@@ -24759,7 +24853,7 @@
     "DungeonRewardView": 91209,
     "DungeonType": "DefenceMove",
     "DungeonTypeShow": "DUNGEON_NAME_90109",
-    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Sabotage.LevelSelect_Bg_Sabotage",
+    "DungeonUIBG": "/Game/UI/UI_PC/LevelSelect/LevelSelect_Bg/LevelSelect_Bg_Defence.LevelSelect_Bg_Defence",
     "DungeonWinMode": 2,
     "EnableTacmap": false,
     "EnableUpdateOverlapsOpt": true,
@@ -24891,6 +24985,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -25014,8 +25109,7 @@
       ]
     },
     "Condition": [
-      115,
-      3031
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150201,
@@ -25028,6 +25122,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -25151,8 +25246,7 @@
       ]
     },
     "Condition": [
-      125,
-      3032
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150201,
@@ -25165,6 +25259,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -25288,8 +25383,7 @@
       ]
     },
     "Condition": [
-      135,
-      3033
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150201,
@@ -25302,6 +25396,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -25425,8 +25520,7 @@
       ]
     },
     "Condition": [
-      145,
-      3034
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150201,
@@ -25439,6 +25533,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -25562,8 +25657,7 @@
       ]
     },
     "Condition": [
-      155,
-      3035
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150201,
@@ -25576,6 +25670,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -25699,8 +25794,7 @@
       ]
     },
     "Condition": [
-      160,
-      3036
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150201,
@@ -25713,6 +25807,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150204
     },
+    "DropRewardMonsterNum": 360,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXCAVATION_1",
     "DungeonCost": [
@@ -26367,6 +26462,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -26490,6 +26586,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -26613,6 +26710,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -26727,8 +26825,7 @@
       ]
     },
     "Condition": [
-      135,
-      3102
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150301,
@@ -26740,6 +26837,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -26854,8 +26952,7 @@
       ]
     },
     "Condition": [
-      145,
-      3103
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150301,
@@ -26867,6 +26964,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -26981,8 +27079,7 @@
       ]
     },
     "Condition": [
-      155,
-      3104
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150301,
@@ -26994,6 +27091,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -27108,8 +27206,7 @@
       ]
     },
     "Condition": [
-      160,
-      3105
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150301,
@@ -27121,6 +27218,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150304
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_CAPTURE_1",
     "DungeonCost": [
@@ -27499,6 +27597,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -27650,6 +27749,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -27794,6 +27894,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -27938,6 +28039,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28082,6 +28184,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28226,6 +28329,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28360,8 +28464,7 @@
       ]
     },
     "Condition": [
-      115,
-      3051
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -28374,6 +28477,7 @@
       "Mon.Reward.E": 151000,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28521,8 +28625,7 @@
       ]
     },
     "Condition": [
-      115,
-      3051
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -28535,6 +28638,7 @@
       "Mon.Reward.E": 151001,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28675,8 +28779,7 @@
       ]
     },
     "Condition": [
-      115,
-      3051
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -28689,6 +28792,7 @@
       "Mon.Reward.E": 151002,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28829,8 +28933,7 @@
       ]
     },
     "Condition": [
-      115,
-      3051
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -28843,6 +28946,7 @@
       "Mon.Reward.E": 151003,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -28983,8 +29087,7 @@
       ]
     },
     "Condition": [
-      115,
-      3051
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -28997,6 +29100,7 @@
       "Mon.Reward.E": 151004,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -29137,8 +29241,7 @@
       ]
     },
     "Condition": [
-      115,
-      3051
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -29151,6 +29254,7 @@
       "Mon.Reward.E": 151005,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -29291,8 +29395,7 @@
       ]
     },
     "Condition": [
-      125,
-      3052
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -29305,6 +29408,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -29452,8 +29556,7 @@
       ]
     },
     "Condition": [
-      125,
-      3052
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -29466,6 +29569,7 @@
       "Mon.Reward.E": 151007,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -29606,8 +29710,7 @@
       ]
     },
     "Condition": [
-      125,
-      3052
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -29620,6 +29723,7 @@
       "Mon.Reward.E": 151008,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -29760,8 +29864,7 @@
       ]
     },
     "Condition": [
-      125,
-      3052
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -29774,6 +29877,7 @@
       "Mon.Reward.E": 151009,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -29914,8 +30018,7 @@
       ]
     },
     "Condition": [
-      125,
-      3052
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -29928,6 +30031,7 @@
       "Mon.Reward.E": 151010,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30068,8 +30172,7 @@
       ]
     },
     "Condition": [
-      125,
-      3052
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30082,6 +30185,7 @@
       "Mon.Reward.E": 151011,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30222,8 +30326,7 @@
       ]
     },
     "Condition": [
-      135,
-      3053
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30236,6 +30339,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30377,8 +30481,7 @@
       ]
     },
     "Condition": [
-      135,
-      3053
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30391,6 +30494,7 @@
       "Mon.Reward.E": 151007,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30525,8 +30629,7 @@
       ]
     },
     "Condition": [
-      135,
-      3053
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30539,6 +30642,7 @@
       "Mon.Reward.E": 151008,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30673,8 +30777,7 @@
       ]
     },
     "Condition": [
-      135,
-      3053
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30687,6 +30790,7 @@
       "Mon.Reward.E": 151009,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30821,8 +30925,7 @@
       ]
     },
     "Condition": [
-      135,
-      3053
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30835,6 +30938,7 @@
       "Mon.Reward.E": 151010,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -30969,8 +31073,7 @@
       ]
     },
     "Condition": [
-      135,
-      3053
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -30983,6 +31086,7 @@
       "Mon.Reward.E": 151011,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -31117,8 +31221,7 @@
       ]
     },
     "Condition": [
-      145,
-      3054
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -31131,6 +31234,7 @@
       "Mon.Reward.E": 151006,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -31278,8 +31382,7 @@
       ]
     },
     "Condition": [
-      145,
-      3054
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -31292,6 +31395,7 @@
       "Mon.Reward.E": 151007,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -31432,8 +31536,7 @@
       ]
     },
     "Condition": [
-      145,
-      3054
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -31446,6 +31549,7 @@
       "Mon.Reward.E": 151008,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -31586,8 +31690,7 @@
       ]
     },
     "Condition": [
-      145,
-      3054
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -31600,6 +31703,7 @@
       "Mon.Reward.E": 151009,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -31740,8 +31844,7 @@
       ]
     },
     "Condition": [
-      145,
-      3054
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -31754,6 +31857,7 @@
       "Mon.Reward.E": 151010,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -31894,8 +31998,7 @@
       ]
     },
     "Condition": [
-      145,
-      3054
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -31908,6 +32011,7 @@
       "Mon.Reward.E": 151011,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32048,8 +32152,7 @@
       ]
     },
     "Condition": [
-      155,
-      3055
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32062,6 +32165,7 @@
       "Mon.Reward.E": 151012,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32209,8 +32313,7 @@
       ]
     },
     "Condition": [
-      155,
-      3055
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32223,6 +32326,7 @@
       "Mon.Reward.E": 151013,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32363,8 +32467,7 @@
       ]
     },
     "Condition": [
-      155,
-      3055
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32377,6 +32480,7 @@
       "Mon.Reward.E": 151014,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32517,8 +32621,7 @@
       ]
     },
     "Condition": [
-      155,
-      3055
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32531,6 +32634,7 @@
       "Mon.Reward.E": 151015,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32671,8 +32775,7 @@
       ]
     },
     "Condition": [
-      155,
-      3055
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32685,6 +32788,7 @@
       "Mon.Reward.E": 151016,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32825,8 +32929,7 @@
       ]
     },
     "Condition": [
-      155,
-      3055
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32839,6 +32942,7 @@
       "Mon.Reward.E": 151017,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -32979,8 +33083,7 @@
       ]
     },
     "Condition": [
-      160,
-      3056
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -32993,6 +33096,7 @@
       "Mon.Reward.E": 151012,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -33134,8 +33238,7 @@
       ]
     },
     "Condition": [
-      160,
-      3056
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -33148,6 +33251,7 @@
       "Mon.Reward.E": 151013,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -33282,8 +33386,7 @@
       ]
     },
     "Condition": [
-      160,
-      3056
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -33296,6 +33399,7 @@
       "Mon.Reward.E": 151014,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -33430,8 +33534,7 @@
       ]
     },
     "Condition": [
-      160,
-      3056
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -33444,6 +33547,7 @@
       "Mon.Reward.E": 151015,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -33578,8 +33682,7 @@
       ]
     },
     "Condition": [
-      160,
-      3056
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -33592,6 +33695,7 @@
       "Mon.Reward.E": 151016,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -33726,8 +33830,7 @@
       ]
     },
     "Condition": [
-      160,
-      3056
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150401,
@@ -33740,6 +33843,7 @@
       "Mon.Reward.E": 151017,
       "Mon.Sq": 150404
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVAL_1",
     "DungeonCost": [
@@ -33882,6 +33986,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -33999,8 +34104,7 @@
       ]
     },
     "Condition": [
-      115,
-      3061
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -34012,6 +34116,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -34129,8 +34234,7 @@
       ]
     },
     "Condition": [
-      125,
-      3062
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -34142,6 +34246,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -34259,8 +34364,7 @@
       ]
     },
     "Condition": [
-      135,
-      3063
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -34272,6 +34376,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -34389,8 +34494,7 @@
       ]
     },
     "Condition": [
-      145,
-      3064
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -34402,6 +34506,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -34520,8 +34625,7 @@
       ]
     },
     "Condition": [
-      155,
-      3065
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -34533,6 +34637,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -34651,8 +34756,7 @@
       ]
     },
     "Condition": [
-      160,
-      3066
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -34664,6 +34768,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGE_1",
     "DungeonCost": [
@@ -36362,8 +36467,7 @@
       ]
     },
     "Condition": [
-      145,
-      3064
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -36493,8 +36597,7 @@
       ]
     },
     "Condition": [
-      155,
-      3065
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -36624,8 +36727,7 @@
       ]
     },
     "Condition": [
-      160,
-      3066
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150501,
@@ -36765,6 +36867,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -36890,8 +36993,7 @@
       ]
     },
     "Condition": [
-      115,
-      3071
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150601,
@@ -36904,6 +37006,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -37033,8 +37136,7 @@
       ]
     },
     "Condition": [
-      125,
-      3072
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150601,
@@ -37047,6 +37149,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -37176,8 +37279,7 @@
       ]
     },
     "Condition": [
-      135,
-      3073
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150601,
@@ -37190,6 +37292,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -37319,8 +37422,7 @@
       ]
     },
     "Condition": [
-      145,
-      3074
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150601,
@@ -37333,6 +37435,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -37458,8 +37561,7 @@
       ]
     },
     "Condition": [
-      155,
-      3075
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150601,
@@ -37472,6 +37574,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -37601,8 +37704,7 @@
       ]
     },
     "Condition": [
-      160,
-      3076
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150601,
@@ -37615,6 +37717,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150604
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SURVIVALPRO_1",
     "DungeonCost": [
@@ -37749,6 +37852,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -37876,6 +37980,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -37994,8 +38099,7 @@
       ]
     },
     "Condition": [
-      125,
-      3141
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150701,
@@ -38007,6 +38111,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -38125,8 +38230,7 @@
       ]
     },
     "Condition": [
-      135,
-      3142
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150701,
@@ -38138,6 +38242,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -38256,8 +38361,7 @@
       ]
     },
     "Condition": [
-      145,
-      3143
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150701,
@@ -38269,6 +38373,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -38387,8 +38492,7 @@
       ]
     },
     "Condition": [
-      155,
-      3144
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150701,
@@ -38400,6 +38504,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -38518,8 +38623,7 @@
       ]
     },
     "Condition": [
-      160,
-      3145
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150701,
@@ -38531,6 +38635,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150704
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_HIJACK_1",
     "DungeonCost": [
@@ -38659,6 +38764,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -38776,8 +38882,7 @@
       ]
     },
     "Condition": [
-      115,
-      3150
+      115
     ],
     "DropReward": {
       "Mon.Gr": 150801,
@@ -38789,6 +38894,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -38906,8 +39012,7 @@
       ]
     },
     "Condition": [
-      125,
-      3151
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150801,
@@ -38919,6 +39024,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -39036,8 +39142,7 @@
       ]
     },
     "Condition": [
-      135,
-      3152
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150801,
@@ -39049,6 +39154,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -39166,8 +39272,7 @@
       ]
     },
     "Condition": [
-      145,
-      3153
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150801,
@@ -39179,6 +39284,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -39296,8 +39402,7 @@
       ]
     },
     "Condition": [
-      155,
-      3154
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150801,
@@ -39309,6 +39414,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -39426,8 +39532,7 @@
       ]
     },
     "Condition": [
-      160,
-      3155
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150801,
@@ -39439,6 +39544,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 40,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_EXTERMINATE_1",
     "DungeonCost": [
@@ -39564,6 +39670,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -39691,6 +39798,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -39809,8 +39917,7 @@
       ]
     },
     "Condition": [
-      125,
-      3131
+      125
     ],
     "DropReward": {
       "Mon.Gr": 150901,
@@ -39822,6 +39929,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -39940,8 +40048,7 @@
       ]
     },
     "Condition": [
-      135,
-      3132
+      135
     ],
     "DropReward": {
       "Mon.Gr": 150901,
@@ -39953,6 +40060,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -40071,8 +40179,7 @@
       ]
     },
     "Condition": [
-      145,
-      3133
+      145
     ],
     "DropReward": {
       "Mon.Gr": 150901,
@@ -40084,6 +40191,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -40202,8 +40310,7 @@
       ]
     },
     "Condition": [
-      155,
-      3134
+      155
     ],
     "DropReward": {
       "Mon.Gr": 150901,
@@ -40215,6 +40322,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -40333,8 +40441,7 @@
       ]
     },
     "Condition": [
-      160,
-      3135
+      160
     ],
     "DropReward": {
       "Mon.Gr": 150901,
@@ -40346,6 +40453,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 150904
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_RESCUE_1",
     "DungeonCost": [
@@ -41269,6 +41377,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 150,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -41319,6 +41428,7 @@
       6,
       8
     ],
+    "NoTicketEnter": true,
     "RespawnRule": "CommonSolo",
     "SettlementOffset": [
       [
@@ -41343,7 +41453,13 @@
       ]
     ],
     "ShowAllLevel": true,
-    "Squad": true
+    "Squad": true,
+    "TicketId": [
+      206,
+      207,
+      208,
+      209
+    ]
   },
   "91009": {
     "AlertDisable": true,
@@ -41384,6 +41500,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 175,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -41434,6 +41551,7 @@
       6,
       8
     ],
+    "NoTicketEnter": true,
     "RespawnRule": "CommonSolo",
     "SettlementOffset": [
       [
@@ -41458,7 +41576,13 @@
       ]
     ],
     "ShowAllLevel": true,
-    "Squad": true
+    "Squad": true,
+    "TicketId": [
+      206,
+      207,
+      208,
+      209
+    ]
   },
   "91010": {
     "AlertDisable": true,
@@ -41499,6 +41623,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 200,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -41549,6 +41674,7 @@
       6,
       8
     ],
+    "NoTicketEnter": true,
     "RespawnRule": "CommonSolo",
     "SettlementOffset": [
       [
@@ -41573,7 +41699,13 @@
       ]
     ],
     "ShowAllLevel": true,
-    "Squad": true
+    "Squad": true,
+    "TicketId": [
+      206,
+      207,
+      208,
+      209
+    ]
   },
   "91011": {
     "AlertDisable": true,
@@ -41614,6 +41746,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 250,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -41664,6 +41797,7 @@
       6,
       8
     ],
+    "NoTicketEnter": true,
     "RespawnRule": "CommonSolo",
     "SettlementOffset": [
       [
@@ -41688,7 +41822,13 @@
       ]
     ],
     "ShowAllLevel": true,
-    "Squad": true
+    "Squad": true,
+    "TicketId": [
+      206,
+      207,
+      208,
+      209
+    ]
   },
   "91091": {
     "AlertDisable": true,
@@ -41939,6 +42079,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42071,6 +42212,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42203,6 +42345,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42335,6 +42478,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42467,6 +42611,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42599,6 +42744,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42734,6 +42880,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -42869,6 +43016,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43004,6 +43152,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43139,6 +43288,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43274,6 +43424,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43409,6 +43560,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43544,6 +43696,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43679,6 +43832,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43814,6 +43968,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -43949,6 +44104,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44084,6 +44240,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44219,6 +44376,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44354,6 +44512,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44489,6 +44648,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44624,6 +44784,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44759,6 +44920,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -44894,6 +45056,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45029,6 +45192,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45164,6 +45328,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45299,6 +45464,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45434,6 +45600,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45569,6 +45736,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45704,6 +45872,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45839,6 +46008,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -45972,6 +46142,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46112,6 +46283,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46252,6 +46424,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46392,6 +46565,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46532,6 +46706,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46671,6 +46846,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46803,6 +46979,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -46935,6 +47112,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47067,6 +47245,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47199,6 +47378,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47331,6 +47511,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 50,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47466,6 +47647,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47601,6 +47783,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47736,6 +47919,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -47871,6 +48055,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48006,6 +48191,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48141,6 +48327,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48276,6 +48463,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48411,6 +48599,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48546,6 +48735,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48681,6 +48871,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48816,6 +49007,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -48951,6 +49143,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49086,6 +49279,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49221,6 +49415,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49356,6 +49551,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49491,6 +49687,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49626,6 +49823,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49761,6 +49959,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -49896,6 +50095,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50031,6 +50231,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50166,6 +50367,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50301,6 +50503,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50436,6 +50639,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50571,6 +50775,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50704,6 +50909,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50844,6 +51050,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -50984,6 +51191,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -51124,6 +51332,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -51264,6 +51473,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150804
     },
+    "DropRewardMonsterNum": 100,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_TESTING_1",
     "DungeonCost": [
@@ -51406,6 +51616,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -51569,6 +51780,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -51732,6 +51944,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -51895,6 +52108,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -52058,6 +52272,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -52221,6 +52436,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -52384,6 +52600,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -52547,6 +52764,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -52710,6 +52928,7 @@
       "Mon.Reward.E": 70,
       "Mon.Sq": 150504
     },
+    "DropRewardMonsterNum": 120,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
     "DungeonCost": [
@@ -52871,6 +53090,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [
@@ -52996,6 +53216,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [
@@ -53121,6 +53342,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [
@@ -53246,6 +53468,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [
@@ -53371,6 +53594,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [
@@ -53496,6 +53720,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [
@@ -53621,6 +53846,7 @@
       "Mon.Reward.E": 80,
       "Mon.Sq": 151104
     },
+    "DropRewardMonsterNum": 1000,
     "DungeonBGM": "event:/bgm/cbt01/level/zhuiji",
     "DungeonContent": "UI_DUNGEON_CONTENT_SYNTHESIS_1",
     "DungeonCost": [

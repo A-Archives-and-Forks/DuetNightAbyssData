@@ -27,6 +27,9 @@
   },
   "QuestStartInfo": [],
   "QuestSuccessInfo": {
+    "10010102": [
+      "anime_start"
+    ],
     "10010104": [
       "leave_cave"
     ],
@@ -53,6 +56,7 @@
       "prologue_anime_start"
     ],
     "10010308": [
+      "chapter1_1_start",
       "prologue_end",
       "reborn_start"
     ],
@@ -62,9 +66,6 @@
     ],
     "10010311": [
       "conquer_soldiers"
-    ],
-    "10020101": [
-      "chapter1_1_start"
     ],
     "10020108": [
       "chapter1_1_end"

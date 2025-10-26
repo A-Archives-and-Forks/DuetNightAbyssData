@@ -122,7 +122,7 @@
         5
       ],
       [
-        10000
+        5000
       ]
     ],
     "Id": [
@@ -182,7 +182,7 @@
         5
       ],
       [
-        10000
+        5000
       ]
     ],
     "Id": [
@@ -4747,7 +4747,7 @@
   "10600": {
     "Count": [
       [
-        600
+        500
       ]
     ],
     "Id": [
@@ -4963,6 +4963,36 @@
       "Resource"
     ]
   },
+  "107006": {
+    "Count": [
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        5000
+      ]
+    ],
+    "Id": [
+      211,
+      41009,
+      2012,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 107006,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
   "107101": {
     "Count": [
       [
@@ -4981,7 +5011,7 @@
   "10800": {
     "Count": [
       [
-        800
+        600
       ]
     ],
     "Id": [
@@ -5036,19 +5066,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       4000,
-      16
+      16,
+      0
     ],
     "RewardId": 110,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -5087,7 +5123,7 @@
   "11000": {
     "Count": [
       [
-        1000
+        800
       ]
     ],
     "Id": [
@@ -5923,19 +5959,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       5000,
-      17
+      17,
+      0
     ],
     "RewardId": 111,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -5947,19 +5989,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       6000,
-      17
+      17,
+      50
     ],
     "RewardId": 112,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -5971,19 +6019,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       7000,
-      33
+      33,
+      100
     ],
     "RewardId": 113,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -6247,19 +6301,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       8000,
-      50
+      50,
+      150
     ],
     "RewardId": 114,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -6271,19 +6331,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       9000,
-      67
+      67,
+      200
     ],
     "RewardId": 115,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -6295,19 +6361,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       9500,
-      83
+      83,
+      250
     ],
     "RewardId": 116,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -6315,7 +6387,7 @@
   "11600": {
     "Count": [
       [
-        1600
+        1200
       ]
     ],
     "Id": [
@@ -6334,19 +6406,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       31,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       10000,
-      167
+      167,
+      300
     ],
     "RewardId": 117,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -6409,19 +6487,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       4000,
-      16
+      16,
+      0
     ],
     "RewardId": 120,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -6459,21 +6543,21 @@
   "12001": {
     "Count": [
       [
-        5
-      ],
-      [
-        5
-      ],
-      [
         60
+      ],
+      [
+        5
+      ],
+      [
+        5
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2008,
+      99,
       2012,
-      99
+      2008
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -6490,21 +6574,21 @@
   "12002": {
     "Count": [
       [
-        5
-      ],
-      [
-        5
-      ],
-      [
         300
+      ],
+      [
+        5
+      ],
+      [
+        5
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2009,
+      99,
       2013,
-      99
+      2009
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -6521,21 +6605,21 @@
   "12003": {
     "Count": [
       [
-        10
-      ],
-      [
-        10
-      ],
-      [
         680
+      ],
+      [
+        10
+      ],
+      [
+        10
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2009,
+      99,
       2013,
-      99
+      2009
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -6552,21 +6636,21 @@
   "12004": {
     "Count": [
       [
-        15
-      ],
-      [
-        15
-      ],
-      [
         980
+      ],
+      [
+        15
+      ],
+      [
+        15
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2009,
+      99,
       2013,
-      99
+      2009
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -6583,21 +6667,21 @@
   "12005": {
     "Count": [
       [
-        15
-      ],
-      [
-        15
-      ],
-      [
         1680
+      ],
+      [
+        15
+      ],
+      [
+        15
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2010,
+      99,
       2014,
-      99
+      2010
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -6614,21 +6698,21 @@
   "12006": {
     "Count": [
       [
-        25
-      ],
-      [
-        25
-      ],
-      [
         3280
+      ],
+      [
+        25
+      ],
+      [
+        25
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2010,
+      99,
       2014,
-      99
+      2010
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -7514,21 +7598,21 @@
   "12034": {
     "Count": [
       [
-        10
-      ],
-      [
-        10
-      ],
-      [
         1280
+      ],
+      [
+        10
+      ],
+      [
+        10
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2010,
+      99,
       2014,
-      99
+      2010
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -7545,21 +7629,21 @@
   "12035": {
     "Count": [
       [
-        20
-      ],
-      [
-        20
-      ],
-      [
         2480
+      ],
+      [
+        20
+      ],
+      [
+        20
       ]
     ],
     "FunctionDes": "UI_Pack",
     "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_Level.T_Pack_Level",
     "Id": [
-      2010,
+      99,
       2014,
-      99
+      2010
     ],
     "IpDes": "UI_Pack",
     "Mode": "Fixed",
@@ -7723,7 +7807,7 @@
   "12043": {
     "Count": [
       [
-        80
+        100
       ]
     ],
     "FunctionDes": "UI_Pack",
@@ -7744,7 +7828,7 @@
   "12044": {
     "Count": [
       [
-        180
+        240
       ]
     ],
     "FunctionDes": "UI_Pack",
@@ -7786,7 +7870,7 @@
   "12046": {
     "Count": [
       [
-        10000
+        12000
       ]
     ],
     "FunctionDes": "UI_Pack",
@@ -8002,6 +8086,58 @@
       "Resource"
     ]
   },
+  "12055": {
+    "Count": [
+      [
+        8
+      ],
+      [
+        8
+      ]
+    ],
+    "FunctionDes": "UI_Pack",
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_MonthPurple.T_Pack_MonthPurple",
+    "Id": [
+      208,
+      207
+    ],
+    "IpDes": "UI_Pack",
+    "Mode": "Fixed",
+    "Name": "Pack_Name_Ticket1",
+    "Rarity": 4,
+    "RewardId": 12055,
+    "Sound": "SOUND_ITEM_NORMAL",
+    "Type": [
+      "Resource",
+      "Resource"
+    ]
+  },
+  "12056": {
+    "Count": [
+      [
+        3
+      ],
+      [
+        8
+      ]
+    ],
+    "FunctionDes": "UI_Pack",
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_MonthGold.T_Pack_MonthGold",
+    "Id": [
+      209,
+      208
+    ],
+    "IpDes": "UI_Pack",
+    "Mode": "Fixed",
+    "Name": "Pack_Name_Ticket2",
+    "Rarity": 5,
+    "RewardId": 12056,
+    "Sound": "SOUND_ITEM_NORMAL",
+    "Type": [
+      "Resource",
+      "Resource"
+    ]
+  },
   "12099": {
     "Count": [
       [
@@ -8041,19 +8177,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       5000,
-      17
+      17,
+      0
     ],
     "RewardId": 121,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8212,6 +8354,32 @@
       "Resource"
     ]
   },
+  "12107": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "FunctionDes": "UI_Pack",
+    "Icon": "/Game/UI/Texture/Dynamic/Atlas/Prop/Item/T_Pack_CommonChristmasSkin.T_Pack_CommonChristmasSkin",
+    "Id": [
+      16010010,
+      16010110
+    ],
+    "IpDes": "UI_Pack",
+    "Mode": "Fixed",
+    "Name": "Pack_Name_MainChar_General_1",
+    "Rarity": 5,
+    "RewardId": 12107,
+    "Sound": "SOUND_ITEM_NORMAL",
+    "Type": [
+      "Skin",
+      "Skin"
+    ]
+  },
   "121101": {
     "Count": [
       [
@@ -8255,19 +8423,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       6000,
-      17
+      17,
+      250
     ],
     "RewardId": 122,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8351,19 +8525,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       7000,
-      33
+      33,
+      300
     ],
     "RewardId": 123,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8429,19 +8609,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       8000,
-      50
+      50,
+      350
     ],
     "RewardId": 124,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8453,19 +8639,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       9000,
-      67
+      67,
+      400
     ],
     "RewardId": 125,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8477,19 +8669,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       9500,
-      83
+      83,
+      450
     ],
     "RewardId": 126,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8501,19 +8699,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       32,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       10000,
-      167
+      167,
+      500
     ],
     "RewardId": 127,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -8561,19 +8765,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       4000,
-      16
+      16,
+      0
     ],
     "RewardId": 130,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -9554,19 +9764,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       5000,
-      17
+      17,
+      0
     ],
     "RewardId": 131,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -9780,19 +9996,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       6000,
-      17
+      17,
+      250
     ],
     "RewardId": 132,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -9866,19 +10088,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       7000,
-      33
+      33,
+      300
     ],
     "RewardId": 133,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -10014,19 +10242,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       8000,
-      50
+      50,
+      350
     ],
     "RewardId": 134,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -10193,19 +10427,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       9000,
-      67
+      67,
+      400
     ],
     "RewardId": 135,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -10527,19 +10767,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       9500,
-      83
+      83,
+      450
     ],
     "RewardId": 136,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -11016,19 +11262,25 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       33,
-      77
+      77,
+      75
     ],
     "Mode": "Independent",
     "Param": [
       10000,
-      167
+      167,
+      500
     ],
     "RewardId": 137,
     "Type": [
+      "Reward",
       "Reward",
       "Reward"
     ]
@@ -13134,8 +13386,8 @@
     "IsCombatReward": true,
     "Mode": "Independent",
     "Param": [
-      1500,
-      2500
+      600,
+      200
     ],
     "RewardId": 150005,
     "Type": [
@@ -13159,8 +13411,8 @@
     "IsCombatReward": true,
     "Mode": "Independent",
     "Param": [
-      1500,
-      2500
+      600,
+      200
     ],
     "RewardId": 150006,
     "Type": [
@@ -13184,8 +13436,8 @@
     "IsCombatReward": true,
     "Mode": "Independent",
     "Param": [
-      1500,
-      2500
+      600,
+      200
     ],
     "RewardId": 150007,
     "Type": [
@@ -13209,8 +13461,8 @@
     "IsCombatReward": true,
     "Mode": "Independent",
     "Param": [
-      1500,
-      2500
+      600,
+      200
     ],
     "RewardId": 150008,
     "Type": [
@@ -17982,20 +18234,15 @@
   "2010003": {
     "Count": [
       [
-        100
-      ],
-      [
-        1
+        60
       ]
     ],
     "Id": [
-      100,
-      1001
+      100
     ],
     "Mode": "Fixed",
     "RewardId": 2010003,
     "Type": [
-      "Resource",
       "Resource"
     ]
   },
@@ -18611,6 +18858,58 @@
       "Drop"
     ]
   },
+  "2028": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      1001,
+      1101
+    ],
+    "IsCombatResource": true,
+    "IsCombatReward": true,
+    "Mode": "Independent",
+    "Param": [
+      2500,
+      1500
+    ],
+    "RewardId": 2028,
+    "Type": [
+      "Drop",
+      "Reward"
+    ]
+  },
+  "2029": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      1101,
+      1003
+    ],
+    "IsCombatResource": true,
+    "IsCombatReward": true,
+    "Mode": "Independent",
+    "Param": [
+      2500,
+      5000
+    ],
+    "RewardId": 2029,
+    "Type": [
+      "Reward",
+      "Drop"
+    ]
+  },
   "203": {
     "Count": [
       [
@@ -18633,6 +18932,38 @@
     "Type": [
       "Reward",
       "Reward"
+    ]
+  },
+  "2030": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      1001,
+      1101,
+      1003
+    ],
+    "IsCombatResource": true,
+    "IsCombatReward": true,
+    "Mode": "Independent",
+    "Param": [
+      2000,
+      2000,
+      2000
+    ],
+    "RewardId": 2030,
+    "Type": [
+      "Drop",
+      "Reward",
+      "Drop"
     ]
   },
   "204": {
@@ -18830,7 +19161,7 @@
     "Param": [
       6000,
       17,
-      1000
+      50
     ],
     "RewardId": 212,
     "Type": [
@@ -18968,7 +19299,7 @@
     "Param": [
       7000,
       33,
-      2000
+      100
     ],
     "RewardId": 213,
     "Type": [
@@ -18998,7 +19329,7 @@
     "Param": [
       8000,
       50,
-      3000
+      150
     ],
     "RewardId": 214,
     "Type": [
@@ -19028,7 +19359,7 @@
     "Param": [
       9000,
       67,
-      3500
+      200
     ],
     "RewardId": 215,
     "Type": [
@@ -19058,7 +19389,7 @@
     "Param": [
       9500,
       83,
-      4000
+      250
     ],
     "RewardId": 216,
     "Type": [
@@ -19088,7 +19419,7 @@
     "Param": [
       10000,
       167,
-      5000
+      300
     ],
     "RewardId": 217,
     "Type": [
@@ -19148,7 +19479,7 @@
   "22000": {
     "Count": [
       [
-        2000
+        1000
       ]
     ],
     "Id": [
@@ -19211,7 +19542,7 @@
     "Param": [
       6000,
       17,
-      2000
+      250
     ],
     "RewardId": 222,
     "Type": [
@@ -19241,7 +19572,7 @@
     "Param": [
       7000,
       33,
-      4000
+      300
     ],
     "RewardId": 223,
     "Type": [
@@ -19271,7 +19602,7 @@
     "Param": [
       8000,
       50,
-      6000
+      350
     ],
     "RewardId": 224,
     "Type": [
@@ -19301,7 +19632,7 @@
     "Param": [
       9000,
       67,
-      7000
+      400
     ],
     "RewardId": 225,
     "Type": [
@@ -19313,7 +19644,7 @@
   "22500": {
     "Count": [
       [
-        2500
+        1200
       ]
     ],
     "Id": [
@@ -19346,7 +19677,7 @@
     "Param": [
       9500,
       83,
-      8000
+      450
     ],
     "RewardId": 226,
     "Type": [
@@ -19376,7 +19707,7 @@
     "Param": [
       10000,
       167,
-      10000
+      500
     ],
     "RewardId": 227,
     "Type": [
@@ -19418,7 +19749,7 @@
   "23000": {
     "Count": [
       [
-        3000
+        1500
       ]
     ],
     "Id": [
@@ -19481,7 +19812,7 @@
     "Param": [
       6000,
       17,
-      2000
+      250
     ],
     "RewardId": 232,
     "Type": [
@@ -19511,7 +19842,7 @@
     "Param": [
       7000,
       33,
-      4000
+      300
     ],
     "RewardId": 233,
     "Type": [
@@ -19541,7 +19872,7 @@
     "Param": [
       8000,
       50,
-      6000
+      350
     ],
     "RewardId": 234,
     "Type": [
@@ -19571,7 +19902,7 @@
     "Param": [
       9000,
       67,
-      7000
+      400
     ],
     "RewardId": 235,
     "Type": [
@@ -19601,7 +19932,7 @@
     "Param": [
       9500,
       83,
-      8000
+      450
     ],
     "RewardId": 236,
     "Type": [
@@ -19631,7 +19962,7 @@
     "Param": [
       10000,
       167,
-      10000
+      500
     ],
     "RewardId": 237,
     "Type": [
@@ -25896,7 +26227,8 @@
         1
       ],
       [
-        1
+        10,
+        20
       ],
       [
         1
@@ -25940,7 +26272,7 @@
       20514,
       20515,
       20517,
-      20519,
+      102,
       5011010,
       5011011,
       5011020,
@@ -25980,7 +26312,7 @@
       "Resource",
       "Resource",
       "Resource",
-      "Drop",
+      "Resource",
       "Resource",
       "Resource",
       "Resource",
@@ -26352,20 +26684,15 @@
       ],
       [
         1
-      ],
-      [
-        1
       ]
     ],
     "Id": [
-      30101,
-      30102,
-      30108
+      30103,
+      30105
     ],
     "Mode": "Fixed",
     "RewardId": 4000013,
     "Type": [
-      "Resource",
       "Resource",
       "Resource"
     ]
@@ -26769,106 +27096,106 @@
   "40013": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40013,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40014": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40014,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40015": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40015,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40016": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40016,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40017": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40017,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40018": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40018,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40019": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40019,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "4002": {
@@ -26892,76 +27219,76 @@
   "40020": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40020,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40021": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40021,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40022": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40022,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40023": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40023,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40024": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40024,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40025": {
@@ -27282,226 +27609,226 @@
   "40046": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40046,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40047": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40047,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40048": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40048,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40049": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40049,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40050": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40050,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40051": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40051,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40052": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40052,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40053": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40053,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40054": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40054,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40055": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40055,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40056": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40056,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40057": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40057,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40058": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40058,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40059": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40059,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40060": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40060,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40061": {
@@ -29217,46 +29544,46 @@
   "40160": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40160,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40161": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40161,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40162": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40162,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40163": {
@@ -29442,391 +29769,391 @@
   "40175": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40175,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40176": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40176,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40177": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40177,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40178": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40178,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40179": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40179,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40180": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40180,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40181": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40181,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40182": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40182,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40183": {
     "Count": [
       [
-        1
+        3000
       ]
     ],
     "Id": [
-      200010
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40183,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40184": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40184,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40185": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40185,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40186": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40186,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40187": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40187,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40188": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40188,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40189": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40189,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40190": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40190,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40191": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40191,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40192": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40192,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40193": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40193,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40194": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40194,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40195": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40195,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40196": {
     "Count": [
       [
-        1
+        140
       ]
     ],
     "Id": [
-      200024
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 40196,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40197": {
     "Count": [
       [
-        1
+        100
       ]
     ],
     "Id": [
-      200022
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 40197,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40198": {
     "Count": [
       [
-        1
+        80
       ]
     ],
     "Id": [
-      200021
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 40198,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40199": {
     "Count": [
       [
-        1
+        140
       ]
     ],
     "Id": [
-      200025
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 40199,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40200": {
     "Count": [
       [
-        1
+        120
       ]
     ],
     "Id": [
-      200023
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 40200,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "4020001": {
@@ -29907,106 +30234,106 @@
   "40201": {
     "Count": [
       [
-        1
+        80
       ]
     ],
     "Id": [
-      200022
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 40201,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40202": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40202,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40203": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40203,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40204": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40204,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40205": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40205,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40206": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40206,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40207": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40207,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40208": {
@@ -30293,91 +30620,91 @@
   "40223": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40223,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40224": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40224,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40225": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40225,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40226": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40226,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40227": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40227,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40228": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40228,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40229": {
@@ -30473,46 +30800,46 @@
   "40235": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40235,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40236": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40236,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40237": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40237,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40238": {
@@ -30653,46 +30980,46 @@
   "40247": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40247,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40248": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40248,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40249": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40249,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40250": {
@@ -30788,46 +31115,46 @@
   "40256": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40256,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40257": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40257,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40258": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40258,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40259": {
@@ -30968,46 +31295,46 @@
   "40268": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40268,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40269": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40269,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40270": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40270,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40271": {
@@ -31058,316 +31385,316 @@
   "40274": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40274,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40275": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40275,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40276": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40276,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40277": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40277,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40278": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40278,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40279": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40279,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40280": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40280,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40281": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40281,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40282": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40282,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40283": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40283,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40284": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40284,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40285": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40285,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40286": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40286,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40287": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40287,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40288": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40288,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40289": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40289,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40290": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40290,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40291": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40291,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40292": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40292,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40293": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40293,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40294": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40294,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40295": {
@@ -31508,91 +31835,91 @@
   "40304": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40304,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40305": {
     "Count": [
       [
-        1
+        6000
       ]
     ],
     "Id": [
-      200013
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40305,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40306": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40306,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40307": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40307,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40308": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40308,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40309": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40309,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40310": {
@@ -33353,136 +33680,136 @@
   "40427": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40427,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40428": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40428,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40429": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40429,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40430": {
     "Count": [
       [
-        1
+        8000
       ]
     ],
     "Id": [
-      200016
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40430,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40431": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200015
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40431,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40432": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40432,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40433": {
     "Count": [
       [
-        1
+        7000
       ]
     ],
     "Id": [
-      200014
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40433,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40434": {
     "Count": [
       [
-        1
+        5000
       ]
     ],
     "Id": [
-      200012
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40434,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "40435": {
     "Count": [
       [
-        1
+        4000
       ]
     ],
     "Id": [
-      200011
+      101
     ],
     "Mode": "Fixed",
     "RewardId": 40435,
     "Type": [
-      "Reward"
+      "Resource"
     ]
   },
   "41": {
@@ -33557,7 +33884,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33597,7 +33924,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33637,7 +33964,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33677,7 +34004,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33717,7 +34044,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33757,7 +34084,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33797,7 +34124,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33837,7 +34164,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33877,7 +34204,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33917,7 +34244,7 @@
         5
       ],
       [
-        50
+        80
       ],
       [
         2
@@ -33957,7 +34284,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -33997,7 +34324,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34037,7 +34364,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34077,7 +34404,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34117,7 +34444,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34157,7 +34484,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34197,7 +34524,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34237,7 +34564,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34277,7 +34604,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34317,7 +34644,7 @@
         8
       ],
       [
-        80
+        120
       ],
       [
         4
@@ -34357,7 +34684,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34397,7 +34724,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34437,7 +34764,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34477,7 +34804,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34517,7 +34844,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34557,7 +34884,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34597,7 +34924,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34637,7 +34964,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34677,7 +35004,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34717,7 +35044,7 @@
         10
       ],
       [
-        80
+        120
       ],
       [
         2
@@ -34917,7 +35244,7 @@
         10
       ],
       [
-        150
+        200
       ],
       [
         2
@@ -34957,7 +35284,7 @@
         1
       ],
       [
-        20
+        150
       ],
       [
         2
@@ -34997,7 +35324,7 @@
         1
       ],
       [
-        20
+        150
       ],
       [
         2
@@ -35037,7 +35364,7 @@
         1
       ],
       [
-        20
+        150
       ],
       [
         2
@@ -35077,7 +35404,7 @@
         1
       ],
       [
-        20
+        150
       ],
       [
         2
@@ -35117,7 +35444,7 @@
         1
       ],
       [
-        20
+        150
       ],
       [
         2
@@ -35157,7 +35484,7 @@
         1
       ],
       [
-        50
+        150
       ],
       [
         2
@@ -35197,7 +35524,7 @@
         1
       ],
       [
-        50
+        150
       ],
       [
         2
@@ -35237,7 +35564,7 @@
         1
       ],
       [
-        50
+        150
       ],
       [
         2
@@ -35277,7 +35604,7 @@
         1
       ],
       [
-        50
+        150
       ],
       [
         2
@@ -35317,7 +35644,7 @@
         1
       ],
       [
-        50
+        150
       ],
       [
         2
@@ -35357,19 +35684,19 @@
         2
       ],
       [
-        50
-      ],
-      [
-        2
-      ],
-      [
-        2
-      ],
-      [
         200
       ],
       [
-        10000
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
       ]
     ],
     "Id": [
@@ -35397,19 +35724,19 @@
         2
       ],
       [
-        50
-      ],
-      [
-        2
-      ],
-      [
-        2
-      ],
-      [
         200
       ],
       [
-        10000
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
       ]
     ],
     "Id": [
@@ -35437,19 +35764,19 @@
         2
       ],
       [
-        50
-      ],
-      [
-        2
-      ],
-      [
-        2
-      ],
-      [
         200
       ],
       [
-        10000
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
       ]
     ],
     "Id": [
@@ -35477,19 +35804,19 @@
         2
       ],
       [
-        50
-      ],
-      [
-        2
-      ],
-      [
-        2
-      ],
-      [
         200
       ],
       [
-        10000
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
       ]
     ],
     "Id": [
@@ -35517,19 +35844,19 @@
         2
       ],
       [
-        50
-      ],
-      [
-        2
-      ],
-      [
-        2
-      ],
-      [
         200
       ],
       [
-        10000
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
       ]
     ],
     "Id": [
@@ -35551,13 +35878,613 @@
       "Resource"
     ]
   },
+  "46016": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46016,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46017": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46017,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46018": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46018,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46019": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46019,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46020": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46020,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46021": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46021,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46022": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46022,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46023": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46023,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46024": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46024,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46025": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        150
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46025,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46026": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46026,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46027": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46027,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46028": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46028,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46029": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46029,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "46030": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        200
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        15000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2013,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 46030,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
   "48001": {
     "Count": [
       [
         7
       ],
       [
-        150
+        200
       ],
       [
         3
@@ -35592,7 +36519,7 @@
         4
       ],
       [
-        30
+        75
       ]
     ],
     "Id": [
@@ -35609,7 +36536,7 @@
   "48003": {
     "Count": [
       [
-        5
+        10
       ]
     ],
     "Id": [
@@ -35617,6 +36544,76 @@
     ],
     "Mode": "Fixed",
     "RewardId": 48003,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "48004": {
+    "Count": [
+      [
+        7
+      ],
+      [
+        200
+      ],
+      [
+        3
+      ],
+      [
+        300
+      ],
+      [
+        12000
+      ]
+    ],
+    "Id": [
+      1005,
+      214,
+      2009,
+      102,
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 48004,
+    "Type": [
+      "Walnut",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "48005": {
+    "Count": [
+      [
+        4
+      ],
+      [
+        75
+      ]
+    ],
+    "Id": [
+      1005,
+      214
+    ],
+    "Mode": "Fixed",
+    "RewardId": 48005,
+    "Type": [
+      "Walnut",
+      "Resource"
+    ]
+  },
+  "48006": {
+    "Count": [
+      [
+        10
+      ]
+    ],
+    "Id": [
+      214
+    ],
+    "Mode": "Fixed",
+    "RewardId": 48006,
     "Type": [
       "Resource"
     ]
@@ -38023,7 +39020,7 @@
         1
       ],
       [
-        10
+        80
       ]
     ],
     "Id": [
@@ -38363,7 +39360,7 @@
         1
       ],
       [
-        10
+        80
       ]
     ],
     "Id": [
@@ -38680,7 +39677,7 @@
         1
       ],
       [
-        10
+        80
       ]
     ],
     "Id": [
@@ -38860,6 +39857,15 @@
       ],
       [
         1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
@@ -38871,13 +39877,19 @@
       1006,
       1007,
       1008,
-      1016
+      1016,
+      1052,
+      1053,
+      1054
     ],
     "Mode": "Fixed",
     "RewardId": 50550,
     "Type": [
       "Resource",
       "Resource",
+      "Draft",
+      "Draft",
+      "Draft",
       "Draft",
       "Draft",
       "Draft",
@@ -40156,6 +41168,12 @@
       ],
       [
         150
+      ],
+      [
+        1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
@@ -40164,11 +41182,15 @@
       211,
       2013,
       102,
-      2001
+      2001,
+      30103,
+      30105
     ],
     "Mode": "Fixed",
     "RewardId": 50582,
     "Type": [
+      "Resource",
+      "Resource",
       "Resource",
       "Resource",
       "Resource",
@@ -40417,6 +41439,206 @@
       "Resource"
     ]
   },
+  "50591": {
+    "Count": [
+      [
+        1000
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        100
+      ],
+      [
+        150
+      ]
+    ],
+    "Id": [
+      101,
+      3001,
+      211,
+      2009,
+      102,
+      2001
+    ],
+    "Mode": "Fixed",
+    "RewardId": 50591,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "50592": {
+    "Count": [
+      [
+        1000
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        2
+      ],
+      [
+        50
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      3001,
+      211,
+      2008,
+      2001,
+      20052
+    ],
+    "Mode": "Fixed",
+    "RewardId": 50592,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Title"
+    ]
+  },
+  "50593": {
+    "Count": [
+      [
+        1000
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        2
+      ],
+      [
+        50
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      3001,
+      211,
+      2012,
+      2001,
+      20053
+    ],
+    "Mode": "Fixed",
+    "RewardId": 50593,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Title"
+    ]
+  },
+  "50594": {
+    "Count": [
+      [
+        1000
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        2
+      ],
+      [
+        50
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      3001,
+      211,
+      2008,
+      2001,
+      20054
+    ],
+    "Mode": "Fixed",
+    "RewardId": 50594,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Title"
+    ]
+  },
+  "50595": {
+    "Count": [
+      [
+        1000
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        2
+      ],
+      [
+        50
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      3001,
+      211,
+      2012,
+      2001,
+      20055
+    ],
+    "Mode": "Fixed",
+    "RewardId": 50595,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Resource",
+      "Title"
+    ]
+  },
   "50800": {
     "Count": [
       [
@@ -40540,7 +41762,7 @@
   "50900": {
     "Count": [
       [
-        4200
+        6300
       ]
     ],
     "Id": [
@@ -40556,7 +41778,7 @@
   "50901": {
     "Count": [
       [
-        5000
+        7500
       ]
     ],
     "Id": [
@@ -40572,7 +41794,7 @@
   "50902": {
     "Count": [
       [
-        5900
+        8900
       ]
     ],
     "Id": [
@@ -40588,7 +41810,7 @@
   "50903": {
     "Count": [
       [
-        6700
+        10100
       ]
     ],
     "Id": [
@@ -40604,7 +41826,7 @@
   "50904": {
     "Count": [
       [
-        7600
+        11400
       ]
     ],
     "Id": [
@@ -40620,7 +41842,7 @@
   "50910": {
     "Count": [
       [
-        6600
+        9900
       ]
     ],
     "Id": [
@@ -40636,7 +41858,7 @@
   "50911": {
     "Count": [
       [
-        7900
+        11900
       ]
     ],
     "Id": [
@@ -40652,7 +41874,7 @@
   "50912": {
     "Count": [
       [
-        9200
+        13800
       ]
     ],
     "Id": [
@@ -40668,7 +41890,7 @@
   "50913": {
     "Count": [
       [
-        10600
+        15900
       ]
     ],
     "Id": [
@@ -40684,7 +41906,7 @@
   "50914": {
     "Count": [
       [
-        11900
+        17900
       ]
     ],
     "Id": [
@@ -40700,7 +41922,7 @@
   "50920": {
     "Count": [
       [
-        9000
+        13500
       ]
     ],
     "Id": [
@@ -40716,7 +41938,7 @@
   "50921": {
     "Count": [
       [
-        10800
+        16200
       ]
     ],
     "Id": [
@@ -40732,7 +41954,7 @@
   "50922": {
     "Count": [
       [
-        12600
+        18900
       ]
     ],
     "Id": [
@@ -40748,7 +41970,7 @@
   "50923": {
     "Count": [
       [
-        14400
+        21600
       ]
     ],
     "Id": [
@@ -40764,7 +41986,7 @@
   "50924": {
     "Count": [
       [
-        16200
+        24300
       ]
     ],
     "Id": [
@@ -40780,7 +42002,7 @@
   "50930": {
     "Count": [
       [
-        11400
+        17100
       ]
     ],
     "Id": [
@@ -40796,7 +42018,7 @@
   "50931": {
     "Count": [
       [
-        13700
+        20600
       ]
     ],
     "Id": [
@@ -40812,7 +42034,7 @@
   "50932": {
     "Count": [
       [
-        16000
+        24000
       ]
     ],
     "Id": [
@@ -40828,7 +42050,7 @@
   "50933": {
     "Count": [
       [
-        18200
+        27300
       ]
     ],
     "Id": [
@@ -40844,7 +42066,7 @@
   "50934": {
     "Count": [
       [
-        20500
+        30800
       ]
     ],
     "Id": [
@@ -40860,7 +42082,7 @@
   "50940": {
     "Count": [
       [
-        13800
+        20700
       ]
     ],
     "Id": [
@@ -40876,7 +42098,7 @@
   "50941": {
     "Count": [
       [
-        16600
+        24900
       ]
     ],
     "Id": [
@@ -40892,7 +42114,7 @@
   "50942": {
     "Count": [
       [
-        19300
+        29000
       ]
     ],
     "Id": [
@@ -40908,7 +42130,7 @@
   "50943": {
     "Count": [
       [
-        22100
+        33200
       ]
     ],
     "Id": [
@@ -40924,7 +42146,7 @@
   "50944": {
     "Count": [
       [
-        24800
+        37200
       ]
     ],
     "Id": [
@@ -40940,7 +42162,7 @@
   "50950": {
     "Count": [
       [
-        16500
+        24300
       ]
     ],
     "Id": [
@@ -40956,7 +42178,7 @@
   "50951": {
     "Count": [
       [
-        19500
+        29100
       ]
     ],
     "Id": [
@@ -40972,7 +42194,7 @@
   "50952": {
     "Count": [
       [
-        22700
+        34100
       ]
     ],
     "Id": [
@@ -40988,7 +42210,7 @@
   "50953": {
     "Count": [
       [
-        25900
+        38900
       ]
     ],
     "Id": [
@@ -41004,7 +42226,7 @@
   "50954": {
     "Count": [
       [
-        29200
+        43800
       ]
     ],
     "Id": [
@@ -41020,7 +42242,7 @@
   "50960": {
     "Count": [
       [
-        18000
+        27000
       ]
     ],
     "Id": [
@@ -41036,7 +42258,7 @@
   "50961": {
     "Count": [
       [
-        21600
+        32400
       ]
     ],
     "Id": [
@@ -41052,7 +42274,7 @@
   "50962": {
     "Count": [
       [
-        25200
+        37800
       ]
     ],
     "Id": [
@@ -41068,7 +42290,7 @@
   "50963": {
     "Count": [
       [
-        28800
+        43200
       ]
     ],
     "Id": [
@@ -41084,7 +42306,7 @@
   "50964": {
     "Count": [
       [
-        32400
+        48600
       ]
     ],
     "Id": [
@@ -41560,6 +42782,7 @@
       33203,
       33204
     ],
+    "IsFixedByBonus": true,
     "Mode": "Weight",
     "Param": [
       3,
@@ -41658,6 +42881,7 @@
       33332,
       33411
     ],
+    "IsFixedByBonus": true,
     "Mode": "Weight",
     "Param": [
       3,
@@ -41834,6 +43058,7 @@
       43603,
       43604
     ],
+    "IsFixedByBonus": true,
     "Mode": "Weight",
     "Param": [
       3,
@@ -42050,6 +43275,7 @@
       43511,
       43512
     ],
+    "IsFixedByBonus": true,
     "Mode": "Weight",
     "Param": [
       3,
@@ -50071,177 +51297,108 @@
   "53001": {
     "Count": [
       [
-        10000
-      ],
-      [
-        200
-      ],
-      [
         1
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53001,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
   "53002": {
     "Count": [
       [
-        15000
-      ],
-      [
-        300
-      ],
-      [
         1
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53002,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
   "53003": {
     "Count": [
       [
-        20000
-      ],
-      [
-        400
-      ],
-      [
         1
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53003,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
   "53004": {
     "Count": [
       [
-        25000
-      ],
-      [
-        500
-      ],
-      [
         1,
         2
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53004,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
   "53005": {
     "Count": [
       [
-        30000
-      ],
-      [
-        600
-      ],
-      [
         1,
         2
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53005,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
   "53006": {
     "Count": [
       [
-        35000
-      ],
-      [
-        800
-      ],
-      [
         2
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53006,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
   "53007": {
     "Count": [
       [
-        50000
-      ],
-      [
-        1000
-      ],
-      [
-        2
+        2,
+        3
       ]
     ],
     "Id": [
-      101,
-      102,
       53000
     ],
     "Mode": "Fixed",
     "RewardId": 53007,
     "Type": [
-      "Resource",
-      "Resource",
       "Reward"
     ]
   },
@@ -50278,11 +51435,11 @@
   "55002": {
     "Count": [
       [
-        2
+        4
       ]
     ],
     "Id": [
-      208
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 55002,
@@ -50728,11 +51885,11 @@
   "55032": {
     "Count": [
       [
-        2
+        4
       ]
     ],
     "Id": [
-      208
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 55032,
@@ -51178,11 +52335,11 @@
   "55062": {
     "Count": [
       [
-        2
+        4
       ]
     ],
     "Id": [
-      208
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 55062,
@@ -51628,11 +52785,11 @@
   "55092": {
     "Count": [
       [
-        2
+        4
       ]
     ],
     "Id": [
-      208
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 55092,
@@ -52078,11 +53235,11 @@
   "55122": {
     "Count": [
       [
-        2
+        4
       ]
     ],
     "Id": [
-      208
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 55122,
@@ -52528,11 +53685,11 @@
   "55152": {
     "Count": [
       [
-        2
+        4
       ]
     ],
     "Id": [
-      208
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 55152,
@@ -53380,39 +54537,43 @@
   "6001": {
     "Count": [
       [
-        5
+        20
+      ],
+      [
+        6
+      ],
+      [
+        12
+      ],
+      [
+        12
+      ],
+      [
+        12
+      ],
+      [
+        12
+      ],
+      [
+        12
+      ],
+      [
+        12
+      ],
+      [
+        6
       ],
       [
         2
       ],
       [
-        4
-      ],
-      [
-        4
-      ],
-      [
-        4
-      ],
-      [
-        4
-      ],
-      [
-        4
-      ],
-      [
-        3
-      ],
-      [
-        3
-      ],
-      [
-        20
+        10
       ]
     ],
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -53420,7 +54581,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6001,
@@ -53432,9 +54593,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "60010": {
@@ -53700,39 +54862,43 @@
   "6002": {
     "Count": [
       [
-        10
+        30
+      ],
+      [
+        9
+      ],
+      [
+        18
+      ],
+      [
+        18
+      ],
+      [
+        18
+      ],
+      [
+        18
+      ],
+      [
+        18
+      ],
+      [
+        18
+      ],
+      [
+        9
       ],
       [
         3
       ],
       [
-        5
-      ],
-      [
-        5
-      ],
-      [
-        5
-      ],
-      [
-        5
-      ],
-      [
-        5
-      ],
-      [
-        3
-      ],
-      [
-        3
-      ],
-      [
-        20
+        15
       ]
     ],
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -53740,7 +54906,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6002,
@@ -53752,9 +54918,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "60020": {
@@ -53770,13 +54937,17 @@
       ],
       [
         8000
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       2012,
       2008,
       206,
-      101
+      101,
+      10002
     ],
     "Mode": "Fixed",
     "RewardId": 60020,
@@ -53784,7 +54955,8 @@
       "Resource",
       "Resource",
       "Resource",
-      "Resource"
+      "Resource",
+      "TitleFrame"
     ]
   },
   "60021": {
@@ -54020,31 +55192,34 @@
   "6003": {
     "Count": [
       [
-        15
+        40
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ],
+      [
+        24
+      ],
+      [
+        24
+      ],
+      [
+        24
+      ],
+      [
+        24
+      ],
+      [
+        24
+      ],
+      [
+        12
       ],
       [
         4
-      ],
-      [
-        6
-      ],
-      [
-        6
-      ],
-      [
-        6
-      ],
-      [
-        6
-      ],
-      [
-        6
-      ],
-      [
-        3
-      ],
-      [
-        3
       ],
       [
         20
@@ -54053,6 +55228,7 @@
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -54060,7 +55236,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6003,
@@ -54072,9 +55248,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "60030": {
@@ -54335,39 +55512,43 @@
   "6004": {
     "Count": [
       [
-        20
+        50
+      ],
+      [
+        15
+      ],
+      [
+        30
+      ],
+      [
+        30
+      ],
+      [
+        30
+      ],
+      [
+        30
+      ],
+      [
+        30
+      ],
+      [
+        30
+      ],
+      [
+        15
       ],
       [
         5
       ],
       [
-        8
-      ],
-      [
-        8
-      ],
-      [
-        8
-      ],
-      [
-        8
-      ],
-      [
-        8
-      ],
-      [
-        3
-      ],
-      [
-        3
-      ],
-      [
-        20
+        25
       ]
     ],
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -54375,7 +55556,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6004,
@@ -54387,9 +55568,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "60040": {
@@ -54402,19 +55584,24 @@
       ],
       [
         16000
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       2009,
       207,
-      101
+      101,
+      10003
     ],
     "Mode": "Fixed",
     "RewardId": 60040,
     "Type": [
       "Resource",
       "Resource",
-      "Resource"
+      "Resource",
+      "TitleFrame"
     ]
   },
   "60041": {
@@ -54645,39 +55832,43 @@
   "6005": {
     "Count": [
       [
-        15
+        60
+      ],
+      [
+        18
+      ],
+      [
+        36
+      ],
+      [
+        36
+      ],
+      [
+        36
+      ],
+      [
+        36
+      ],
+      [
+        36
+      ],
+      [
+        36
+      ],
+      [
+        18
       ],
       [
         6
       ],
       [
-        9
-      ],
-      [
-        9
-      ],
-      [
-        9
-      ],
-      [
-        9
-      ],
-      [
-        9
-      ],
-      [
-        3
-      ],
-      [
-        3
-      ],
-      [
-        20
+        30
       ]
     ],
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -54685,7 +55876,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6005,
@@ -54697,9 +55888,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "60050": {
@@ -54960,39 +56152,43 @@
   "6006": {
     "Count": [
       [
-        36
+        70
       ],
       [
-        8
+        21
       ],
       [
-        10
+        42
       ],
       [
-        10
+        42
       ],
       [
-        10
+        42
       ],
       [
-        10
+        42
       ],
       [
-        10
+        42
       ],
       [
-        3
+        42
       ],
       [
-        3
+        21
       ],
       [
-        20
+        7
+      ],
+      [
+        35
       ]
     ],
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -55000,7 +56196,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6006,
@@ -55012,9 +56208,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "60060": {
@@ -55030,13 +56227,17 @@
       ],
       [
         24000
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       2010,
       211,
       10100,
-      101
+      101,
+      10004
     ],
     "Mode": "Fixed",
     "RewardId": 60060,
@@ -55044,7 +56245,8 @@
       "Resource",
       "Resource",
       "Resource",
-      "Resource"
+      "Resource",
+      "TitleFrame"
     ]
   },
   "60061": {
@@ -55185,39 +56387,43 @@
   "6007": {
     "Count": [
       [
+        80
+      ],
+      [
+        24
+      ],
+      [
+        48
+      ],
+      [
+        48
+      ],
+      [
+        48
+      ],
+      [
+        48
+      ],
+      [
+        48
+      ],
+      [
+        48
+      ],
+      [
+        24
+      ],
+      [
+        8
+      ],
+      [
         40
-      ],
-      [
-        10
-      ],
-      [
-        12
-      ],
-      [
-        12
-      ],
-      [
-        12
-      ],
-      [
-        12
-      ],
-      [
-        12
-      ],
-      [
-        3
-      ],
-      [
-        3
-      ],
-      [
-        20
       ]
     ],
     "Id": [
       1006,
       1017,
+      1020,
       1021,
       1022,
       1023,
@@ -55225,7 +56431,7 @@
       1025,
       51910,
       51911,
-      1004
+      20013
     ],
     "Mode": "Fixed",
     "RewardId": 6007,
@@ -55237,9 +56443,10 @@
       "Drop",
       "Drop",
       "Drop",
+      "Drop",
       "Reward",
       "Reward",
-      "Drop"
+      "Resource"
     ]
   },
   "61": {
@@ -55633,6 +56840,7 @@
       106,
       107
     ],
+    "IsFixedByBonus": true,
     "Mode": "Level",
     "Param": [
       1,
@@ -55938,6 +57146,7 @@
       116,
       117
     ],
+    "IsFixedByBonus": true,
     "Mode": "Level",
     "Param": [
       1,
@@ -55979,11 +57188,11 @@
   "7102": {
     "Count": [
       [
-        3000
+        500
       ]
     ],
     "Id": [
-      101
+      102
     ],
     "Mode": "Fixed",
     "RewardId": 7102,
@@ -55994,7 +57203,7 @@
   "7103": {
     "Count": [
       [
-        10000
+        30000
       ]
     ],
     "Id": [
@@ -56002,6 +57211,51 @@
     ],
     "Mode": "Fixed",
     "RewardId": 7103,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7104": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      211
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7104,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7105": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      211
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7105,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7106": {
+    "Count": [
+      [
+        10
+      ]
+    ],
+    "Id": [
+      211
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7106,
     "Type": [
       "Resource"
     ]
@@ -56043,6 +57297,7 @@
       126,
       127
     ],
+    "IsFixedByBonus": true,
     "Mode": "Level",
     "Param": [
       1,
@@ -57438,6 +58693,7 @@
       136,
       137
     ],
+    "IsFixedByBonus": true,
     "Mode": "Level",
     "Param": [
       1,
@@ -57848,6 +59104,7 @@
       136,
       137
     ],
+    "IsFixedByBonus": true,
     "Mode": "Level",
     "Param": [
       1,
@@ -58333,16 +59590,21 @@
       ],
       [
         1
+      ],
+      [
+        1
       ]
     ],
     "Id": [
       101,
-      10005
+      10005,
+      20039
     ],
     "Mode": "Fixed",
     "RewardId": 7423,
     "Type": [
       "Resource",
+      "Title",
       "Title"
     ]
   },
@@ -59149,6 +60411,426 @@
     "Type": [
       "Resource",
       "Title"
+    ]
+  },
+  "7464": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10051
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7464,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7465": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10046
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7465,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7466": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10047
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7466,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7467": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10048
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7467,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7468": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10049
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7468,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7469": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10050
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7469,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7470": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10054
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7470,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7471": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10045
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7471,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7472": {
+    "Count": [
+      [
+        5000
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      10037
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7472,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7473": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10043
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7473,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7474": {
+    "Count": [
+      [
+        5000
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      10035,
+      10005
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7474,
+    "Type": [
+      "Resource",
+      "Title",
+      "TitleFrame"
+    ]
+  },
+  "7475": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10044,
+      10007
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7475,
+    "Type": [
+      "Resource",
+      "Title",
+      "TitleFrame"
+    ]
+  },
+  "7476": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      20021
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7476,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7477": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      20026
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7477,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7478": {
+    "Count": [
+      [
+        5000
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      20042
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7478,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7479": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      20029
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7479,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7480": {
+    "Count": [
+      [
+        5000
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      10028
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7480,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7481": {
+    "Count": [
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10023,
+      20035,
+      20024
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7481,
+    "Type": [
+      "Resource",
+      "Title",
+      "Title",
+      "Title"
+    ]
+  },
+  "7482": {
+    "Count": [
+      [
+        5000
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      101,
+      10025
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7482,
+    "Type": [
+      "Resource",
+      "Title"
+    ]
+  },
+  "7483": {
+    "Count": [
+      [
+        1
+      ],
+      [
+        1
+      ]
+    ],
+    "Id": [
+      211,
+      10006
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7483,
+    "Type": [
+      "Resource",
+      "TitleFrame"
     ]
   },
   "75": {
@@ -60519,6 +62201,366 @@
       "Resource"
     ]
   },
+  "7906": {
+    "Count": [
+      [
+        60
+      ]
+    ],
+    "Id": [
+      100
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7906,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7907": {
+    "Count": [
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7907,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7908": {
+    "Count": [
+      [
+        500
+      ]
+    ],
+    "Id": [
+      102
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7908,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7909": {
+    "Count": [
+      [
+        30
+      ]
+    ],
+    "Id": [
+      20013
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7909,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7910": {
+    "Count": [
+      [
+        100
+      ]
+    ],
+    "Id": [
+      100
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7910,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7911": {
+    "Count": [
+      [
+        50000
+      ]
+    ],
+    "Id": [
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7911,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7912": {
+    "Count": [
+      [
+        60
+      ]
+    ],
+    "Id": [
+      100
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7912,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7913": {
+    "Count": [
+      [
+        1
+      ]
+    ],
+    "Id": [
+      1001
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7913,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7914": {
+    "Count": [
+      [
+        20
+      ],
+      [
+        20000
+      ],
+      [
+        10
+      ]
+    ],
+    "Id": [
+      100,
+      101,
+      2011
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7914,
+    "Type": [
+      "Resource",
+      "Resource",
+      "Resource"
+    ]
+  },
+  "7915": {
+    "Count": [
+      [
+        200
+      ]
+    ],
+    "Id": [
+      102
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7915,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7916": {
+    "Count": [
+      [
+        2
+      ]
+    ],
+    "Id": [
+      207
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7916,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7917": {
+    "Count": [
+      [
+        2
+      ]
+    ],
+    "Id": [
+      3004
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7917,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7918": {
+    "Count": [
+      [
+        10000
+      ]
+    ],
+    "Id": [
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7918,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7919": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      2011
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7919,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7920": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      2007
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7920,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7921": {
+    "Count": [
+      [
+        1
+      ]
+    ],
+    "Id": [
+      1001
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7921,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7922": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      2011
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7922,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7923": {
+    "Count": [
+      [
+        20000
+      ]
+    ],
+    "Id": [
+      101
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7923,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7924": {
+    "Count": [
+      [
+        100
+      ]
+    ],
+    "Id": [
+      100
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7924,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7925": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      2007
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7925,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7926": {
+    "Count": [
+      [
+        60
+      ]
+    ],
+    "Id": [
+      100
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7926,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7927": {
+    "Count": [
+      [
+        5
+      ]
+    ],
+    "Id": [
+      3002
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7927,
+    "Type": [
+      "Resource"
+    ]
+  },
+  "7928": {
+    "Count": [
+      [
+        100
+      ],
+      [
+        10
+      ]
+    ],
+    "Id": [
+      100,
+      211
+    ],
+    "Mode": "Fixed",
+    "RewardId": 7928,
+    "Type": [
+      "Resource",
+      "Resource"
+    ]
+  },
   "80": {
     "Count": [
       [
@@ -61105,6 +63147,21 @@
     ],
     "Mode": "Fixed",
     "RewardId": 82015,
+    "Type": [
+      "HeadFrame"
+    ]
+  },
+  "82016": {
+    "Count": [
+      [
+        1
+      ]
+    ],
+    "Id": [
+      10016
+    ],
+    "Mode": "Fixed",
+    "RewardId": 82016,
     "Type": [
       "HeadFrame"
     ]

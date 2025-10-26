@@ -50,7 +50,7 @@
     "Camp": "Monster",
     "ID": 20202,
     "Vars": {
-      "Buff": 2010102,
+      "Buff": 2010202,
       "Condition": "Crit"
     }
   },

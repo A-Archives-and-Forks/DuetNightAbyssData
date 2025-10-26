@@ -71,7 +71,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 1101,
     "SkinId": [
-      1101
+      1101,
+      11010010
     ],
     "SortPriority": 4006,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -153,7 +154,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 1103,
     "SkinId": [
-      1103
+      1103,
+      11030010
     ],
     "SortPriority": 4006,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -234,7 +236,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 1501,
     "SkinId": [
-      1501
+      1501,
+      15010010
     ],
     "SortPriority": 5010,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -315,7 +318,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 1502,
     "SkinId": [
-      1502
+      1502,
+      15020010
     ],
     "SortPriority": 5011,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -561,7 +565,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 1601,
     "SkinId": [
-      1601
+      1601,
+      16010010
     ],
     "SortPriority": 5014,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -639,7 +644,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 160101,
     "SkinId": [
-      160101
+      160101,
+      16010110
     ],
     "SortPriority": 5015,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -717,7 +723,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 1801,
     "SkinId": [
-      1801
+      1801,
+      18010010
     ],
     "SortPriority": 5009,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -796,7 +803,8 @@
     "RoleId": 2101,
     "SkinId": [
       2101,
-      210102
+      210102,
+      21010010
     ],
     "SortPriority": 5004,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -954,7 +962,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 2301,
     "SkinId": [
-      2301
+      2301,
+      23010010
     ],
     "SortPriority": 4007,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1112,7 +1121,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 3101,
     "SkinId": [
-      3101
+      3101,
+      31010010
     ],
     "SortPriority": 5003,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1273,7 +1283,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 3103,
     "SkinId": [
-      3103
+      3103,
+      31030010
     ],
     "SortPriority": 4003,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1351,7 +1362,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 3201,
     "SkinId": [
-      3201
+      3201,
+      32010010
     ],
     "SortPriority": 4004,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1508,7 +1520,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 3301,
     "SkinId": [
-      3301
+      3301,
+      33010010
     ],
     "SortPriority": 4005,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1586,7 +1599,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 4101,
     "SkinId": [
-      4101
+      4101,
+      41010010
     ],
     "SortPriority": 4001,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1824,7 +1838,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 4202,
     "SkinId": [
-      4202
+      4202,
+      42020010
     ],
     "SortPriority": 4001,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1902,7 +1917,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 4301,
     "SkinId": [
-      4301
+      4301,
+      43010010
     ],
     "SortPriority": 5001,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -1981,7 +1997,8 @@
     "RoleId": 5101,
     "SkinId": [
       5101,
-      510101
+      510101,
+      51010010
     ],
     "SortPriority": 5006,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -2062,7 +2079,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 5102,
     "SkinId": [
-      5102
+      5102,
+      51020010
     ],
     "SortPriority": 4002,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -2141,7 +2159,8 @@
     "RoleId": 5301,
     "SkinId": [
       5301,
-      530101
+      530101,
+      53010010
     ],
     "SortPriority": 5008,
     "Sound": "SOUND_ITEM_NORMAL",
@@ -2222,7 +2241,8 @@
     "RegainCharItemNum": 30,
     "RoleId": 5401,
     "SkinId": [
-      5401
+      5401,
+      54010010
     ],
     "SortPriority": 4002,
     "Sound": "SOUND_ITEM_NORMAL",

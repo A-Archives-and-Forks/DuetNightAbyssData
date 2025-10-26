@@ -4359,6 +4359,11 @@
     "UnitId": 3900153,
     "UnitRealType": "Mechanism"
   },
+  "3900154": {
+    "UnitBPPath": "/Game/AssetDesign/Item/PlatForm/BP_Defence_NavModifier.BP_Defence_NavModifier",
+    "UnitId": 3900154,
+    "UnitRealType": "Mechanism"
+  },
   "390016": {
     "BattleRoleId": 39001,
     "BloodUIParmas": {
@@ -8280,7 +8285,7 @@
     "UnitId": 495012,
     "UnitParams": {
       "MaxTime": 3,
-      "ReduceTime": 0
+      "ReduceTime": 0.5
     },
     "UnitRealType": "Mechanism"
   },
@@ -8476,7 +8481,7 @@
           "Self"
         ],
         "500000301": [
-          7,
+          8,
           "Target",
           "Target",
           "Self"
@@ -8494,7 +8499,7 @@
           "Self"
         ],
         "500000304": [
-          1,
+          0,
           "Target",
           "Target",
           "Self"
@@ -8531,7 +8536,7 @@
           "Self"
         ],
         "500000301": [
-          7,
+          8,
           "Target",
           "Target",
           "Self"
@@ -8549,7 +8554,7 @@
           "Self"
         ],
         "500000304": [
-          1,
+          0,
           "Target",
           "Target",
           "Self"
@@ -9603,7 +9608,7 @@
       "RayConnectTime": 2,
       "RayDisDuration": 2,
       "RayFixAngle": 10,
-      "RayMaxLength": 5000,
+      "RayMaxLength": 3500,
       "RayMinLength": 500
     },
     "UnitRealType": "MirrorExploreMechanism"
@@ -9629,7 +9634,7 @@
       "RayConnectTime": 2,
       "RayDisDuration": 2,
       "RayFixAngle": 10,
-      "RayMaxLength": 5000,
+      "RayMaxLength": 3500,
       "RayMinLength": 500
     },
     "UnitRealType": "MirrorExploreMechanism"
@@ -9649,7 +9654,7 @@
       "RayConnectTime": 2,
       "RayDisDuration": 2,
       "RayFixAngle": 10,
-      "RayMaxLength": 5000,
+      "RayMaxLength": 3500,
       "RayMinLength": 500
     },
     "UnitRealType": "MirrorExploreMechanism"

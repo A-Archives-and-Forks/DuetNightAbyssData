@@ -2,6 +2,9 @@
   "Abyss": {
     "RateZone": "Abyss"
   },
+  "Almighty": {
+    "RateZone": "Almighty"
+  },
   "BossDown": {
     "RateZone": "BossDown"
   },

@@ -328,6 +328,20 @@
     "GMIntegrationName": "Feina04Fight",
     "GMTab": "任务"
   },
+  "Feina04Find02": {
+    "GMCommands": [
+      "gm UnlockRegionTeleport 1",
+      "gm MockAllSystemCondition",
+      "gm SuccessAllSystemGuide",
+      "gm SuccQuestChain 120113",
+      "gm SuccQuest 12011405",
+      "gm skipregion 1 101103 6",
+      "gm aade"
+    ],
+    "GMDisplayName": "菲娜活动（四）冰湖",
+    "GMIntegrationName": "Feina04Find02",
+    "GMTab": "任务"
+  },
   "Feina04Party": {
     "GMCommands": [
       "gm UnlockRegionTeleport 1",

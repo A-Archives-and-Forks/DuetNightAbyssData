@@ -15,7 +15,7 @@
     "SubId": [
       "Capture"
     ],
-    "Value": 60
+    "Value": 15
   },
   {
     "MonitorId": 3,
@@ -24,7 +24,7 @@
     "SubId": [
       "Sabotage"
     ],
-    "Value": 50
+    "Value": 15
   },
   {
     "MonitorId": 4,
@@ -33,7 +33,7 @@
     "SubId": [
       "Rescue"
     ],
-    "Value": 90
+    "Value": 15
   },
   {
     "MonitorId": 5,
@@ -42,7 +42,7 @@
     "SubId": [
       "Exterminate"
     ],
-    "Value": 60
+    "Value": 10
   },
   {
     "MonitorId": 6,
@@ -51,7 +51,7 @@
     "SubId": [
       "Hijack"
     ],
-    "Value": 120
+    "Value": 80
   },
   {
     "MonitorId": 7,
@@ -60,7 +60,7 @@
     "SubId": [
       "Rouge"
     ],
-    "Value": 10
+    "Value": 4
   },
   {
     "MonitorId": 8,
@@ -69,7 +69,7 @@
     "SubId": [
       "RougeToken"
     ],
-    "Value": 4072
+    "Value": 5000
   },
   {
     "MonitorId": 9,

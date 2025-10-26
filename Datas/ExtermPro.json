@@ -439,7 +439,7 @@
   "91101": {
     "DungeonId": 91101,
     "EliteRange": [
-      25,
+      26,
       30
     ],
     "EliteSpawnOnlyRelation": false,
@@ -462,7 +462,7 @@
   "91102": {
     "DungeonId": 91102,
     "EliteRange": [
-      25,
+      26,
       30
     ],
     "EliteSpawnOnlyRelation": false,
@@ -485,7 +485,7 @@
   "91103": {
     "DungeonId": 91103,
     "EliteRange": [
-      25,
+      26,
       30
     ],
     "EliteSpawnOnlyRelation": false,
@@ -508,7 +508,7 @@
   "91104": {
     "DungeonId": 91104,
     "EliteRange": [
-      25,
+      26,
       30
     ],
     "EliteSpawnOnlyRelation": false,
@@ -531,7 +531,7 @@
   "91105": {
     "DungeonId": 91105,
     "EliteRange": [
-      25,
+      26,
       30
     ],
     "EliteSpawnOnlyRelation": false,
@@ -554,7 +554,7 @@
   "91106": {
     "DungeonId": 91106,
     "EliteRange": [
-      25,
+      26,
       30
     ],
     "EliteSpawnOnlyRelation": false,

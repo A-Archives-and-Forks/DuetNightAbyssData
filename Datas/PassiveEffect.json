@@ -2580,12 +2580,12 @@
       "DamageAddRateGrade2": 0.001,
       "EnergyAdd": "#1",
       "Grade4Rate": 0.2,
-      "LinkAddGrade2": 0.0003,
+      "LinkAddGrade2": 0.0001,
       "MaxEnergyGrade0": 300,
       "MaxEnergyGrade2Rate": 1,
       "Skill01Energy": 20,
       "Skill02Energy": 100,
-      "Skill02LinkAddedRate": 0.08,
+      "Skill02LinkAddedRate": 0.02,
       "Skill02LinkRate": "#2"
     }
   },

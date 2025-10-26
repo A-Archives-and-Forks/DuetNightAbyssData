@@ -90,6 +90,7 @@
     "OverallPreset",
     "ScreenFilter",
     "Fps",
+    "MobileResolution",
     "ShadowQuality",
     "EffectQuality",
     "HUDSize",

@@ -42,6 +42,25 @@
       ]
     }
   },
+  "100144": {
+    "StoryLinePath": "Impression/IceLakeCity/Gossip/EnlikeIcelake.story",
+    "TalkId": 100144,
+    "TalkTriggerId": 100144,
+    "TriggerCondition": {
+      "And": [
+        {
+          "QuestStart": {
+            "QuestId": 10020608
+          }
+        },
+        {
+          "QuestUnstart": {
+            "QuestId": 10020611
+          }
+        }
+      ]
+    }
+  },
   "1002": {
     "DialogueId": 10012502,
     "TalkTriggerId": 1002,
@@ -3358,6 +3377,11 @@
     "StoryLinePath": "Observe/IceLake.story",
     "TalkId": 700181,
     "TalkTriggerId": 700181
+  },
+  "700182": {
+    "StoryLinePath": "Observe/IceLake.story",
+    "TalkId": 700182,
+    "TalkTriggerId": 700182
   },
   "700200": {
     "StoryLinePath": "Observe/IceLakeCity_2.story",
