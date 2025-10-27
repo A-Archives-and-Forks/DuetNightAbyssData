@@ -1,4 +1,8 @@
 {
+  "Abyss_Battle_RemainTime": {
+    "TextMapId": "Abyss_Battle_RemainTime",
+    "WildcardClassification": "Story"
+  },
   "Abyss_LevelName": {
     "TextMapId": "Abyss_LevelName",
     "WildcardClassification": "Story"
