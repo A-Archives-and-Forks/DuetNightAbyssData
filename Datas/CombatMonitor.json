@@ -53,15 +53,7 @@
     ],
     "Value": 80
   },
-  {
-    "MonitorId": 7,
-    "MonitorType": "Time",
-    "ServerMark": true,
-    "SubId": [
-      "Rouge"
-    ],
-    "Value": 0
-  },
+  null,
   {
     "MonitorId": 8,
     "MonitorType": "Resource",

@@ -25617,7 +25617,7 @@
   "voice_jp_story_1002_101063_194CD2FA": {
     "ProgrammerSoundPath": "event:/voice/jp/story/1002",
     "SelectKey": "voice_jp_story_1002_101063_194CD2FA",
-    "SoundLength": 8880
+    "SoundLength": 16370
   },
   "voice_jp_story_1002_101063_194CD324": {
     "ProgrammerSoundPath": "event:/voice/jp/story/1002",
@@ -31512,6 +31512,26 @@
     "ProgrammerSoundPath": "event:/voice/jp/story/1002",
     "SelectKey": "voice_jp_story_1002_101300_195BD016_m",
     "SoundLength": 9810
+  },
+  "voice_jp_story_1002_101301_195BD017_f": {
+    "ProgrammerSoundPath": "event:/voice/jp/story/1002",
+    "SelectKey": "voice_jp_story_1002_101301_195BD017_f",
+    "SoundLength": 9560
+  },
+  "voice_jp_story_1002_101301_195BD017_m": {
+    "ProgrammerSoundPath": "event:/voice/jp/story/1002",
+    "SelectKey": "voice_jp_story_1002_101301_195BD017_m",
+    "SoundLength": 8740
+  },
+  "voice_jp_story_1002_101301_195BD018": {
+    "ProgrammerSoundPath": "event:/voice/jp/story/1002",
+    "SelectKey": "voice_jp_story_1002_101301_195BD018",
+    "SoundLength": 14800
+  },
+  "voice_jp_story_1002_101301_195BD019": {
+    "ProgrammerSoundPath": "event:/voice/jp/story/1002",
+    "SelectKey": "voice_jp_story_1002_101301_195BD019",
+    "SoundLength": 16040
   },
   "voice_jp_story_1002_101301_195BD020": {
     "ProgrammerSoundPath": "event:/voice/jp/story/1002",
