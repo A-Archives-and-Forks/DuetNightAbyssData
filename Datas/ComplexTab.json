@@ -44,7 +44,7 @@
     "EntrySort": 97,
     "InterfaceJumpId": 28,
     "RefreshTime": {
-      "WEEK": 1
+      "WEEK": 4
     },
     "ShopEntryId": 4,
     "ShopName": "Abyss_ExchangeStore"
@@ -57,7 +57,7 @@
     "EntrySort": 96,
     "InterfaceJumpId": 55,
     "RefreshTime": {
-      "WEEK": 8
+      "WEEK": 1
     },
     "ShopEntryId": 5,
     "ShopName": "UI_RougeExchangeShop_Title"

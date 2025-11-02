@@ -1538,6 +1538,10 @@
       ],
       "207": [
         {
+          "ShopItemId": 150301,
+          "SubTabId": 1501
+        },
+        {
           "ShopItemId": 150101,
           "SubTabId": 1500
         }
