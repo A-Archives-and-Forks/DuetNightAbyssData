@@ -9,31 +9,24 @@
       ],
       [
         1
-      ],
-      [
-        10,
-        20
       ]
     ],
     "Id": [
       1001,
       1101,
-      1003,
-      101
+      1003
     ],
     "Mode": "Independent",
     "Param": [
       500,
       500,
-      2000,
-      4000
+      2000
     ],
     "RewardId": 1,
     "Type": [
       "Drop",
       "Reward",
-      "Drop",
-      "Resource"
+      "Drop"
     ]
   },
   "100": {
@@ -5027,35 +5020,17 @@
     "Count": [
       [
         1
-      ],
-      [
-        1
-      ],
-      [
-        1
-      ],
-      [
-        1
       ]
     ],
     "Id": [
-      1,
-      1026,
-      1027,
-      2014
+      1
     ],
     "Mode": "Independent",
     "Param": [
-      10000,
-      0,
-      0,
-      5000
+      10000
     ],
     "RewardId": 11,
     "Type": [
-      "Reward",
-      "Drop",
-      "Drop",
       "Reward"
     ]
   },
@@ -6448,35 +6423,17 @@
     "Count": [
       [
         1
-      ],
-      [
-        1
-      ],
-      [
-        1
-      ],
-      [
-        1
       ]
     ],
     "Id": [
-      2,
-      1026,
-      1027,
-      2014
+      2
     ],
     "Mode": "Independent",
     "Param": [
-      10000,
-      0,
-      0,
-      5000
+      10000
     ],
     "RewardId": 12,
     "Type": [
-      "Reward",
-      "Drop",
-      "Drop",
       "Reward"
     ]
   },
@@ -8726,35 +8683,17 @@
     "Count": [
       [
         1
-      ],
-      [
-        1
-      ],
-      [
-        1
-      ],
-      [
-        1
       ]
     ],
     "Id": [
-      3,
-      1026,
-      1027,
-      2014
+      3
     ],
     "Mode": "Independent",
     "Param": [
-      10000,
-      0,
-      0,
-      5000
+      10000
     ],
     "RewardId": 13,
     "Type": [
-      "Reward",
-      "Drop",
-      "Drop",
       "Reward"
     ]
   },
@@ -11512,35 +11451,17 @@
     "Count": [
       [
         1
-      ],
-      [
-        1
-      ],
-      [
-        1
-      ],
-      [
-        1
       ]
     ],
     "Id": [
-      4,
-      1026,
-      1027,
-      2014
+      4
     ],
     "Mode": "Independent",
     "Param": [
-      10000,
-      0,
-      0,
-      5000
+      10000
     ],
     "RewardId": 14,
     "Type": [
-      "Reward",
-      "Drop",
-      "Drop",
       "Reward"
     ]
   },
@@ -14558,6 +14479,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14576,6 +14498,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14594,6 +14517,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14612,6 +14536,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14630,6 +14555,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14648,6 +14574,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14666,6 +14593,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14684,6 +14612,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14702,6 +14631,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14720,6 +14650,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14738,6 +14669,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14756,6 +14688,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14774,6 +14707,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14792,6 +14726,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14810,6 +14745,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14828,6 +14764,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14846,6 +14783,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -14864,6 +14802,7 @@
     "Id": [
       70
     ],
+    "IsFixedByBonus": true,
     "Mode": "Independent",
     "Param": [
       10000
@@ -15427,31 +15366,24 @@
       ],
       [
         1
-      ],
-      [
-        20,
-        40
       ]
     ],
     "Id": [
       1001,
       1101,
-      1003,
-      101
+      1003
     ],
     "Mode": "Weight",
     "Param": [
       9,
       9,
-      10,
-      20
+      10
     ],
     "RewardId": 2,
     "Type": [
       "Drop",
       "Reward",
-      "Drop",
-      "Resource"
+      "Drop"
     ]
   },
   "20": {
@@ -19981,31 +19913,24 @@
       ],
       [
         1
-      ],
-      [
-        30,
-        60
       ]
     ],
     "Id": [
       1001,
       1101,
-      1003,
-      101
+      1003
     ],
     "Mode": "Weight",
     "Param": [
       9,
       9,
-      10,
-      20
+      10
     ],
     "RewardId": 3,
     "Type": [
       "Drop",
       "Reward",
-      "Drop",
-      "Resource"
+      "Drop"
     ]
   },
   "30": {
@@ -26337,31 +26262,24 @@
       ],
       [
         1
-      ],
-      [
-        40,
-        80
       ]
     ],
     "Id": [
       1001,
       1101,
-      1003,
-      101
+      1003
     ],
     "Mode": "Weight",
     "Param": [
       9,
       9,
-      10,
-      20
+      10
     ],
     "RewardId": 4,
     "Type": [
       "Drop",
       "Reward",
-      "Drop",
-      "Resource"
+      "Drop"
     ]
   },
   "40": {
@@ -56883,14 +56801,19 @@
     "Count": [
       [
         300
+      ],
+      [
+        1
       ]
     ],
     "Id": [
-      99
+      99,
+      209
     ],
     "Mode": "Fixed",
     "RewardId": 70001,
     "Type": [
+      "Resource",
       "Resource"
     ]
   },
@@ -56898,14 +56821,19 @@
     "Count": [
       [
         90
+      ],
+      [
+        1
       ]
     ],
     "Id": [
-      100
+      100,
+      207
     ],
     "Mode": "Fixed",
     "RewardId": 70002,
     "Type": [
+      "Resource",
       "Resource"
     ]
   },
